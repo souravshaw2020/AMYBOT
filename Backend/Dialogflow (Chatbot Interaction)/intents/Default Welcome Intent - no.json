@@ -1,0 +1,46 @@
+{
+  "id": "b4fc421a-18ac-4777-bd8f-40e61f545c61",
+  "parentId": "0dacee3a-ebe9-4cff-949f-a1663e96b5bc",
+  "rootParentId": "0dacee3a-ebe9-4cff-949f-a1663e96b5bc",
+  "name": "Default Welcome Intent - no",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-no",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-yes-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Oh come on! I won\u0027t take much time of yours. Give it a try.",
+            "Think about it! I might be quite helpful.",
+            "Are you sure? I think you should give it a shot."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

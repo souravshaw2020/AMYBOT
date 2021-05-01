@@ -1,0 +1,44 @@
+{
+  "id": "6445135c-8046-466e-8754-92f2848f216d",
+  "parentId": "b12741c0-aee6-44df-9f6b-42ae07f21479",
+  "rootParentId": "65938767-125a-4123-996e-aacb259fdb5e",
+  "name": "AskCareers-MI",
+  "auto": true,
+  "contexts": [
+    "IntelligenceMatch-MI-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ReportIntelligence-MI-yes.ReportIntelligence-MI-yes-yes.StudentIntelligenceDescription-yes-yes.IntelligenceMatch-MI-yes-yes",
+      "affectedContexts": [
+        {
+          "name": "Subjects-NonFav-Why-CI-followup-2",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay. So tell me what do you want to become in the future? Any career you are interested in?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

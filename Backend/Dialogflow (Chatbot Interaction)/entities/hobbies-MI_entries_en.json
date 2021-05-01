@@ -1,0 +1,341 @@
+[
+  {
+    "value": "Reading Books",
+    "synonyms": [
+      "Reading Books",
+      "Reading books",
+      "reading books",
+      "reading book",
+      "book reading"
+    ]
+  },
+  {
+    "value": "Magazines",
+    "synonyms": [
+      "Magazines",
+      "reading magazines",
+      "Reading Magazines",
+      "Reading Magazine"
+    ]
+  },
+  {
+    "value": "Newspaper",
+    "synonyms": [
+      "Newspaper",
+      "reading newspaper",
+      "Reading Newspapers",
+      "Newspapers"
+    ]
+  },
+  {
+    "value": "Novel",
+    "synonyms": [
+      "Novel",
+      "novels",
+      "reading novel",
+      "reading novels"
+    ]
+  },
+  {
+    "value": "Journals",
+    "synonyms": [
+      "Journals",
+      "reading journals",
+      "reading journal",
+      "journal"
+    ]
+  },
+  {
+    "value": "Writing Articles",
+    "synonyms": [
+      "Writing Articles",
+      "articles",
+      "writing article",
+      "article",
+      "articles writing",
+      "article writing"
+    ]
+  },
+  {
+    "value": "Writing Blogs",
+    "synonyms": [
+      "Blogs",
+      "blog",
+      "writing blogs",
+      "writing blog",
+      "blog writing",
+      "blogs writing"
+    ]
+  },
+  {
+    "value": "Writing Stories",
+    "synonyms": [
+      "Stories",
+      "story writing",
+      "writing stories",
+      "stories writing",
+      "writing story"
+    ]
+  },
+  {
+    "value": "Writing Poems",
+    "synonyms": [
+      "Writing Poems",
+      "writing poem",
+      "poem writing",
+      "poems writing"
+    ]
+  },
+  {
+    "value": "Writing Lyrics to Songs",
+    "synonyms": [
+      "Writing Lyrics to Songs",
+      "writing lyric to song",
+      "lyrics writing",
+      "songs writing"
+    ]
+  },
+  {
+    "value": "Singing",
+    "synonyms": [
+      "Singing",
+      "sing",
+      "sings"
+    ]
+  },
+  {
+    "value": "Playing a Musical Instrument",
+    "synonyms": [
+      "Playing a Musical Instrument",
+      "playing musical instrument",
+      "musical instrument playing"
+    ]
+  },
+  {
+    "value": "Dancing",
+    "synonyms": [
+      "Dancing",
+      "dance",
+      "dances"
+    ]
+  },
+  {
+    "value": "Making Sculptures",
+    "synonyms": [
+      "Making Sculptures",
+      "sculptures making",
+      "sculpture",
+      "sculptures"
+    ]
+  },
+  {
+    "value": "Painting",
+    "synonyms": [
+      "Painting",
+      "paints",
+      "paintings"
+    ]
+  },
+  {
+    "value": "Drawing",
+    "synonyms": [
+      "Drawing",
+      "draw",
+      "drawings"
+    ]
+  },
+  {
+    "value": "Sketching",
+    "synonyms": [
+      "Sketching",
+      "sketches",
+      "sketch",
+      "sketchings"
+    ]
+  },
+  {
+    "value": "Calligraphy",
+    "synonyms": [
+      "Calligraphy",
+      "calligraphs",
+      "calligraphies"
+    ]
+  },
+  {
+    "value": "Photography",
+    "synonyms": [
+      "Photography",
+      "photographers",
+      "photo",
+      "photograph"
+    ]
+  },
+  {
+    "value": "Making Videos",
+    "synonyms": [
+      "Making Videos",
+      "video making",
+      "videos making",
+      "making video"
+    ]
+  },
+  {
+    "value": "Craftwork and Making Handicrafts",
+    "synonyms": [
+      "Craftwork and Making Handicrafts",
+      "craftworks",
+      "making handicrafts",
+      "handicrafts work",
+      "making handicraft"
+    ]
+  },
+  {
+    "value": "Debating",
+    "synonyms": [
+      "Debating",
+      "debates",
+      "debate"
+    ]
+  },
+  {
+    "value": "MUN",
+    "synonyms": [
+      "MUN",
+      "mun",
+      "muns"
+    ]
+  },
+  {
+    "value": "Taking Part in Quiz Competitions",
+    "synonyms": [
+      "Taking Part in Quiz Competitions",
+      "quiz competitions",
+      "taking part in quiz competition",
+      "quiz competition"
+    ]
+  },
+  {
+    "value": "Playing Video",
+    "synonyms": [
+      "Playing Video",
+      "video playing",
+      "play video"
+    ]
+  },
+  {
+    "value": "Playing Mobile Games",
+    "synonyms": [
+      "Playing Mobile Games",
+      "mobile games",
+      "play mobile games",
+      "play mobile game"
+    ]
+  },
+  {
+    "value": "Playing Word Games",
+    "synonyms": [
+      "Playing Word Games",
+      "word games",
+      "play word games"
+    ]
+  },
+  {
+    "value": "Doing Cross-word",
+    "synonyms": [
+      "Doing Cross-word",
+      "crossword",
+      "cross-word"
+    ]
+  },
+  {
+    "value": "Cooking Food",
+    "synonyms": [
+      "Cooking Food",
+      "cooking",
+      "cook food"
+    ]
+  },
+  {
+    "value": "Theatre",
+    "synonyms": [
+      "Theatre",
+      "threatres"
+    ]
+  },
+  {
+    "value": "Dramatics",
+    "synonyms": [
+      "Dramatics",
+      "dramatics",
+      "dramatic"
+    ]
+  },
+  {
+    "value": "Acting",
+    "synonyms": [
+      "Acting",
+      "actor",
+      "actors",
+      "actings"
+    ]
+  },
+  {
+    "value": "Build Classroom Models",
+    "synonyms": [
+      "Build Classroom Models",
+      "build classroom",
+      "classroom models"
+    ]
+  },
+  {
+    "value": "Undertaking Social Work",
+    "synonyms": [
+      "Undertaking Social Work",
+      "undertake social work",
+      "social work"
+    ]
+  },
+  {
+    "value": "Undertaking Community Service",
+    "synonyms": [
+      "Undertaking Community Service",
+      "community service",
+      "undertake community service"
+    ]
+  },
+  {
+    "value": "Undertaking Planning and Managing Events",
+    "synonyms": [
+      "Undertaking Planning and Managing Events",
+      "planning and managing events",
+      "planning events",
+      "managing events"
+    ]
+  },
+  {
+    "value": "Taking up Leadership Roles",
+    "synonyms": [
+      "Taking up Leadership Roles",
+      "leadership roles",
+      "take leadership roles"
+    ]
+  },
+  {
+    "value": "Keeping Pets",
+    "synonyms": [
+      "Keeping Pets",
+      "pets",
+      "keep pets",
+      "keep pet"
+    ]
+  },
+  {
+    "value": "Gardening",
+    "synonyms": [
+      "Gardening",
+      "gardener",
+      "gardeners",
+      "gardenings"
+    ]
+  }
+]

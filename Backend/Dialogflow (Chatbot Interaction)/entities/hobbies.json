@@ -1,0 +1,9 @@
+{
+  "id": "f71f8d46-6c03-43f4-b742-ba4691a3fc2f",
+  "name": "hobbies",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": "5e038760-95ce-44ee-bed7-9c31cf12b63d",
+  "parentId": "6652e803-bcd8-4417-86bb-010bda940827",
+  "rootParentId": "0dacee3a-ebe9-4cff-949f-a1663e96b5bc",
+  "name": "Profiling-Reply-no",
+  "auto": true,
+  "contexts": [
+    "StudentName-followup",
+    "StudentName-followup-2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-yes.DefaultWelcomeIntent-yes-custom.StudentName-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can get in touch with our advisors."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

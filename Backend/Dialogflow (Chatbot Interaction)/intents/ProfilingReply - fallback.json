@@ -1,0 +1,43 @@
+{
+  "id": "272b7d4d-e554-40df-aeb2-5be2a69af13d",
+  "parentId": "3b137635-e8b6-43eb-8300-7a09aae90e67",
+  "rootParentId": "0dacee3a-ebe9-4cff-949f-a1663e96b5bc",
+  "name": "ProfilingReply - fallback",
+  "contexts": [
+    "ProfilingReply-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-yes.DefaultWelcomeIntent-yes-custom.StudentName-yes.ProfilingReply-fallback",
+      "affectedContexts": [
+        {
+          "name": "ProfilingReply-followup",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Please enter a valid username. Follow the proper format. (Example: - ACZCIxxxxxx or ACZMIxxxxxx)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

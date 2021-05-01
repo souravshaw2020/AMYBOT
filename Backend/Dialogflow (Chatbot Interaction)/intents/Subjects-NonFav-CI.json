@@ -1,0 +1,59 @@
+{
+  "id": "91d76e06-6f6c-4f39-9439-348508671942",
+  "parentId": "a4ad581c-c5ab-41d8-b1dc-8c74266cd52b",
+  "rootParentId": "71df94ff-f0a7-4e16-be10-ac455bfb6ae6",
+  "name": "Subjects-NonFav-CI",
+  "auto": true,
+  "contexts": [
+    "SubjectsFav-Why-CI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SubjectsFav-CI.SubjectsFav-CI-fallback.SubjectsFav-Why-CI-custom",
+      "affectedContexts": [
+        {
+          "name": "Subjects-NonFav-CI-followup",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1e62a25f-c991-46b9-b792-964a1b0518c5",
+          "name": "subjects",
+          "required": false,
+          "dataType": "@subjects",
+          "value": "$subjects",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "And what\u0027s the reason for your dislike?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "b12741c0-aee6-44df-9f6b-42ae07f21479",
+  "parentId": "e58de787-28bb-44ed-8b00-d1cc7870a2cb",
+  "rootParentId": "65938767-125a-4123-996e-aacb259fdb5e",
+  "name": "IntelligenceMatch-MI - yes",
+  "auto": true,
+  "contexts": [
+    "StudentIntelligenceDescription-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ReportIntelligence-MI-yes.ReportIntelligence-MI-yes-yes.StudentIntelligenceDescription-yes-yes",
+      "affectedContexts": [
+        {
+          "name": "IntelligenceMatch-MI-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

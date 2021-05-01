@@ -1,0 +1,52 @@
+{
+  "id": "0d716750-5e75-4126-97f7-d0ee5555c008",
+  "name": "PersonalityTypes-CI - yes",
+  "auto": true,
+  "contexts": [
+    "OtherCareer-Why-CI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SubjectsFav-CI.SubjectsFav-CI-custom.SubjectsFav-Why-CI-custom.Subjects-NonFav-CI-custom.Subjects-NonFav-Why-CI-custom.Careers-CI-custom.Careers-Why-CI-custom.OtherCareer-CI-fallback.OtherCareer-Why-CI-yes",
+      "affectedContexts": [
+        {
+          "name": "PersonalityDescription-CI",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Good! Let\u0027s get going with the personality types."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "So there are six personality types -\u003e Realistic, Investigative, Artistic, Social, Enterprising and Conventional. Okay?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

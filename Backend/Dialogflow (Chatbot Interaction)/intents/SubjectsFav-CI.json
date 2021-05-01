@@ -1,0 +1,57 @@
+{
+  "id": "71df94ff-f0a7-4e16-be10-ac455bfb6ae6",
+  "name": "SubjectsFav-CI",
+  "auto": true,
+  "contexts": [
+    "Subjects-Favourite-CI"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "TestExperience-CI.TestExperience-CI-yes.TestExperience-CI-yes-custom.StudentClass-CI-custom.StudentMarks-CI-yes.StudentMarks-CI-yes-custom.SportsGames-CI-custom.Hobbies-CI-custom.OtherHobbies-CI-custom.Activities-CI-custom",
+      "affectedContexts": [
+        {
+          "name": "SubjectsFav-CI-followup",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c3747ecf-5844-4e20-9343-741e38eeb2a9",
+          "name": "subjects",
+          "required": false,
+          "dataType": "@subjects",
+          "value": "$subjects",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Why is it that these are your favourite?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

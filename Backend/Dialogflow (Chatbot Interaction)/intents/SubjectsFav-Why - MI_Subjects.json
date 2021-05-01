@@ -1,0 +1,43 @@
+{
+  "id": "7ecd5807-e56c-47a7-b192-f578b94d0ef1",
+  "parentId": "b93ac84d-5a08-43a3-afcf-9852e11cf61f",
+  "rootParentId": "4e79171f-327a-4c5e-90ae-4c23c38e05fa",
+  "name": "SubjectsFav-Why - MI|Subjects",
+  "contexts": [
+    "SubjectsFav-MI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Hobbies-MIHobbies.Hobbies-MIHobbies-custom.SubjectsFav-MI-fallback",
+      "affectedContexts": [
+        {
+          "name": "SubjectsFav-Why-MISubjects-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay. And which are the subjects you dislike?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

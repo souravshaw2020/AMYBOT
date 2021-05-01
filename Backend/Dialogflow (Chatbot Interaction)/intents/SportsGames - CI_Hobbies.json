@@ -1,0 +1,57 @@
+{
+  "id": "8ad648fd-7e4a-44b0-b636-ec27a2cc40db",
+  "name": "SportsGames - CI|Hobbies",
+  "auto": true,
+  "contexts": [
+    "SportsGames-CI"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "TestExperience-CI.TestExperience-CI-yes.TestExperience-CI-yes-custom.StudentClass-CI-custom.StudentMarks-CI-yes.StudentMarks-CI-yes-custom",
+      "affectedContexts": [
+        {
+          "name": "SportsGames-CIHobbies-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "80112dd6-e115-4617-8eb9-2e0ece846a66",
+          "name": "sports-games",
+          "required": false,
+          "dataType": "@sports-games",
+          "value": "$sports-games",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great! What are your hobbies?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,255 @@
+[
+  {
+    "id": "855bd8e1-9068-4f71-95b9-2973caaee13d",
+    "data": [
+      {
+        "text": "Astronaut",
+        "meta": "@sys.any",
+        "alias": "future_careers",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8ba265d-b6b6-44d0-a4dd-975d0a5264bd",
+    "data": [
+      {
+        "text": "I\u0027ll be a ",
+        "userDefined": false
+      },
+      {
+        "text": "pilot",
+        "meta": "@sys.any",
+        "alias": "future_careers",
+        "userDefined": false
+      },
+      {
+        "text": " in the future",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d07c5d19-8499-41d8-8968-098617d18c71",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " choose ",
+        "userDefined": false
+      },
+      {
+        "text": "Journalism",
+        "meta": "@sys.any",
+        "alias": "future_careers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ebf3d32-fa5a-4baf-9eb4-91fe22156584",
+    "data": [
+      {
+        "text": "I am thinking of becoming a ",
+        "userDefined": false
+      },
+      {
+        "text": "lawyer",
+        "meta": "@sys.any",
+        "alias": "future_careers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d093527e-12b5-47d2-a62b-5fe58f5a9c8c",
+    "data": [
+      {
+        "text": "I am very curious so I want be a ",
+        "userDefined": false
+      },
+      {
+        "text": "Scientist",
+        "meta": "@sys.any",
+        "alias": "future_careers",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4cdf49c5-7337-4084-8cd0-14d5224fb5b0",
+    "data": [
+      {
+        "text": "Computer Sciences",
+        "meta": "@sys.any",
+        "alias": "future_careers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1048ee8-7b35-490a-9eb2-a1de1eebffaa",
+    "data": [
+      {
+        "text": "I am very fond of computers and so i wish to take up ",
+        "userDefined": false
+      },
+      {
+        "text": "CS",
+        "meta": "@sys.any",
+        "alias": "future_careers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52c26c8c-ccdb-496e-835b-33aa824a01ac",
+    "data": [
+      {
+        "text": "I like ",
+        "userDefined": false
+      },
+      {
+        "text": "Acting",
+        "meta": "@sys.any",
+        "alias": "future_careers",
+        "userDefined": false
+      },
+      {
+        "text": " and i want to pursue ",
+        "userDefined": false
+      },
+      {
+        "text": "it.",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d897d9ca-fde4-4269-85c6-e41ed5a6abd0",
+    "data": [
+      {
+        "text": "Engineer",
+        "meta": "@sys.any",
+        "alias": "future_careers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aaa9dddd-ae6c-4afc-930f-653873ff02be",
+    "data": [
+      {
+        "text": "I have dreamt to be a successful ",
+        "userDefined": false
+      },
+      {
+        "text": "businessman",
+        "meta": "@sys.any",
+        "alias": "future_careers",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74c00643-395f-4058-b841-0f7c9a07cd95",
+    "data": [
+      {
+        "text": "Scientist",
+        "meta": "@sys.any",
+        "alias": "future_careers",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68154ea8-c812-4adb-ae3c-8e6e602d9041",
+    "data": [
+      {
+        "text": "I really wish to be a ",
+        "userDefined": false
+      },
+      {
+        "text": "Doctor",
+        "meta": "@sys.any",
+        "alias": "future_careers",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a38d40b-02bb-4e51-87df-7d3c39d52820",
+    "data": [
+      {
+        "text": "I want to become an ",
+        "userDefined": false
+      },
+      {
+        "text": "Engineer",
+        "meta": "@sys.any",
+        "alias": "future_careers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

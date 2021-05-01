@@ -1,0 +1,41 @@
+{
+  "id": "a6a4cb72-40c9-4fa0-a3cc-17b902d7a3ae",
+  "parentId": "d65f1690-8aba-4b46-9933-3b8a0dfc37d2",
+  "rootParentId": "bc8aa880-b137-4be4-8235-c22160f6c17a",
+  "name": "CII-Match-CI - yes",
+  "auto": true,
+  "contexts": [
+    "CII-Description-CI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PersonalityDescription-CI.PersonalityDescription-CI-yes.ReportPersonality-CI-yes.CII-Description-CI-yes",
+      "affectedContexts": [
+        {
+          "name": "CII-Match-CI-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

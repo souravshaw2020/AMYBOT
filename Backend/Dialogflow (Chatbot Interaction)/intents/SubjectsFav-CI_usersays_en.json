@@ -1,0 +1,782 @@
+[
+  {
+    "id": "1babfe05-9561-4942-ab61-ac417dea6b9f",
+    "data": [
+      {
+        "text": "Nanoscience",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": false
+      },
+      {
+        "text": " is my favourite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b77d116-3bc0-4898-9b3a-c6884cf43604",
+    "data": [
+      {
+        "text": "Cloud computing",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      },
+      {
+        "text": " is my favourite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "871a7fc1-cf1a-4a97-98ef-b117c915c950",
+    "data": [
+      {
+        "text": "Civil engineering",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      },
+      {
+        "text": "chemistry",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": false
+      },
+      {
+        "text": ",",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "french",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c87fddb2-e6cd-4e42-9c34-c74aa6b292f1",
+    "data": [
+      {
+        "text": "Favourite is ",
+        "userDefined": false
+      },
+      {
+        "text": "civics",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7af4de85-88d9-401f-9957-5a27eaec7ef2",
+    "data": [
+      {
+        "text": "biology",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      },
+      {
+        "text": " is the best",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4d3a825-0499-4270-9004-4c52435f820c",
+    "data": [
+      {
+        "text": "bioinformatics",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      },
+      {
+        "text": " is my favourite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9200a64e-8e88-4065-a48f-74fccafd5612",
+    "data": [
+      {
+        "text": "I am fond of ",
+        "userDefined": false
+      },
+      {
+        "text": "Animation",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f26db623-5bb1-49a1-993f-0ad25a5398a7",
+    "data": [
+      {
+        "text": "I am very interested in ",
+        "userDefined": false
+      },
+      {
+        "text": "Accessory Design",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "304730c5-1a96-4c2b-84b7-520ab8278f2b",
+    "data": [
+      {
+        "text": "Apparel Production",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fef547b8-4234-4383-9b17-13fefe1f8768",
+    "data": [
+      {
+        "text": "Apparel Design",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee78945c-3f9a-4226-82f4-fb079a5ae7e3",
+    "data": [
+      {
+        "text": "Anthropology",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8268cd58-1a6f-448c-ad74-946b27487829",
+    "data": [
+      {
+        "text": "Animation",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c90fb184-2e73-4410-b8c9-c4fa2ed7138f",
+    "data": [
+      {
+        "text": "Animal Husbandry",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "168117d2-b799-4814-bc59-800319227fdc",
+    "data": [
+      {
+        "text": "Technology Analytics",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e90b70e-b443-49f2-b07d-df1ae9bfea5b",
+    "data": [
+      {
+        "text": "Ancient History",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28850d98-997f-44aa-b6db-4f9e105e0fd1",
+    "data": [
+      {
+        "text": "Allied Health Sciences",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aae5e041-6635-4b4c-b258-8e7b3e87c06a",
+    "data": [
+      {
+        "text": "Agriculture",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03533bbf-1975-4b41-927c-ff1076f8f475",
+    "data": [
+      {
+        "text": "Agri-Informatics",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8da38f71-d2e4-4822-ac41-9f8aa8ca351e",
+    "data": [
+      {
+        "text": "Aerospace Engineering",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0fdff8b5-a147-4836-9752-2eeb138ba36e",
+    "data": [
+      {
+        "text": "Aeronautical Engineering",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed46593a-5ab9-486f-9e17-a9520ca424c8",
+    "data": [
+      {
+        "text": "Advertising",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65b6a5f6-2f01-45fe-ae27-ce35f2a00a90",
+    "data": [
+      {
+        "text": "Actuarial Science",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac7e9de2-510e-483e-b9c1-f3fd377e3aa3",
+    "data": [
+      {
+        "text": "Acting",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77a9526a-8db4-4813-a4be-ad736fdc7db0",
+    "data": [
+      {
+        "text": "Accounting \u0026 Information System",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9e55964-2488-450c-a78f-3522a6ec0e84",
+    "data": [
+      {
+        "text": "Accessory Design",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41c22420-3b41-423c-bd45-4d01be357e48",
+    "data": [
+      {
+        "text": "architecture assamese",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6dc05ec3-d956-45c3-8b26-f5bde0e05a56",
+    "data": [
+      {
+        "text": "Applied Statistics",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a57952d-bb70-4d93-b65c-9a26943b71c9",
+    "data": [
+      {
+        "text": "Applied Psychology",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32648aa2-bcb2-43a4-92e9-c81c47c9056b",
+    "data": [
+      {
+        "text": "Applied Physics",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4c18f0d-2136-4026-9402-1bd473fb0e04",
+    "data": [
+      {
+        "text": "Applied Physical Sciences",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb89bcc1-5f2f-44d8-ba56-9b3ef23ac4fe",
+    "data": [
+      {
+        "text": "Applied Petroleum Engineering with specialization in Gas",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54ce96f1-d6c1-42ca-a731-8e1075fd26da",
+    "data": [
+      {
+        "text": "Applied Petroleum Engineering",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29cd4ebc-63cb-427f-bf65-e1a55d390e90",
+    "data": [
+      {
+        "text": "actuarial science",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6075f96c-6ab6-4f2e-bc5b-ac644a57a877",
+    "data": [
+      {
+        "text": "arabic",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d52617c0-394d-4827-b796-540d8ca835a9",
+    "data": [
+      {
+        "text": "accounting",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7bc97859-562e-40b1-8ddb-55afc4dd89fc",
+    "data": [
+      {
+        "text": "Applied statistic",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc0ed927-23ba-4b8e-9d4b-0868eb845612",
+    "data": [
+      {
+        "text": "Maths",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21f9f0f4-b795-49b9-b821-e62242b7b79c",
+    "data": [
+      {
+        "text": "Physics",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f9c7fba-66b1-488b-97b0-a1870c5cd715",
+    "data": [
+      {
+        "text": "business",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "118a5a37-bec2-4ceb-ba4e-a97fa9a75e74",
+    "data": [
+      {
+        "text": "i love ",
+        "userDefined": false
+      },
+      {
+        "text": "Business",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d05cb3bb-e61d-4d31-aafa-1d26387abfda",
+    "data": [
+      {
+        "text": "I like ",
+        "userDefined": false
+      },
+      {
+        "text": "Accounting",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Acting",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ede8aecc-8c1f-4ab1-81d3-978c3d8d9c87",
+    "data": [
+      {
+        "text": "Chemistry",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Social Science",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "448323e3-e595-4ee6-ac91-23e77c1c6c7c",
+    "data": [
+      {
+        "text": "English",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05cad43a-86aa-47eb-8b8f-bbec4e347f51",
+    "data": [
+      {
+        "text": "My favourite subjects are ",
+        "userDefined": false
+      },
+      {
+        "text": "Physics",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Mathematics",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1573fbc8-270c-48eb-b6f6-eea0e2fc9e5d",
+    "data": [
+      {
+        "text": "My favourite subjects are ",
+        "userDefined": false
+      },
+      {
+        "text": "Physics",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": false
+      },
+      {
+        "text": " \u0026 ",
+        "userDefined": false
+      },
+      {
+        "text": "Maths",
+        "meta": "@subjects",
+        "alias": "subjects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "9bbde866-11e2-49c0-81ac-e56427f4e5a6",
+  "parentId": "d8dd606c-8dbf-4210-aff6-21f71d05588a",
+  "rootParentId": "11ee83d4-c0d5-4900-abc8-a85f1bc3e651",
+  "name": "StudentMarks-no - CI|Hobbies",
+  "auto": true,
+  "contexts": [
+    "StudentMarks-CI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "TestExperience-CI.TestExperience-CI-yes.TestExperience-CI-yes-custom.StudentClass-CI-custom.StudentMarks-CI-no",
+      "affectedContexts": [
+        {
+          "name": "SportsGames-CIHobbies-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay. Tell me your hobbies that you love doing.",
+            "That\u0027s fine. Tell me about any hobbies that you love doing in your pass time."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

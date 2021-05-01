@@ -1,0 +1,170 @@
+[
+  {
+    "id": "e676a262-e4e8-47fd-8fa6-d639ad37b490",
+    "data": [
+      {
+        "text": "engineering,technology",
+        "meta": "@categories",
+        "alias": "categories",
+        "userDefined": false
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      },
+      {
+        "text": "management",
+        "meta": "@categories",
+        "alias": "categories",
+        "userDefined": false
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      },
+      {
+        "text": "defense services",
+        "meta": "@categories",
+        "alias": "categories",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23178c7b-3b49-4fa7-997e-628982af19a8",
+    "data": [
+      {
+        "text": "engineering",
+        "meta": "@categories",
+        "alias": "categories",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "907799e5-8e4e-4f64-acf2-324a6eb1b0e9",
+    "data": [
+      {
+        "text": "engineering,technology",
+        "meta": "@categories",
+        "alias": "categories",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90e4d50c-047d-4591-a194-9714c60a8322",
+    "data": [
+      {
+        "text": "engineering,technology",
+        "meta": "@categories",
+        "alias": "categories",
+        "userDefined": false
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      },
+      {
+        "text": "management",
+        "meta": "@categories",
+        "alias": "categories",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "789a3aff-60b3-4fb1-8f4b-006a56837855",
+    "data": [
+      {
+        "text": "Engineering and Technology",
+        "meta": "@categories",
+        "alias": "categories",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Management",
+        "meta": "@categories",
+        "alias": "categories",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59182167-a982-48fa-9f9e-c73825882314",
+    "data": [
+      {
+        "text": "I think ",
+        "userDefined": false
+      },
+      {
+        "text": "Engineering and Technology",
+        "meta": "@categories",
+        "alias": "categories",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97f4580f-2b9e-4e45-8dde-5cba3dc9aef0",
+    "data": [
+      {
+        "text": "I want to pick ",
+        "userDefined": false
+      },
+      {
+        "text": "Engineering and Technology",
+        "meta": "@categories",
+        "alias": "categories",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24d75076-aa4d-4837-b836-09285c76ca5f",
+    "data": [
+      {
+        "text": "Engineering and Technology",
+        "meta": "@categories",
+        "alias": "categories",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

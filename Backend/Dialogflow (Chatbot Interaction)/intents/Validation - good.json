@@ -1,0 +1,38 @@
+{
+  "id": "a524dde0-67e6-4ed4-aff4-34d73d19d9a7",
+  "parentId": "2e1d4c06-b8e1-40d5-816a-199fbe2e25d0",
+  "rootParentId": "56f736e8-3d5b-4afb-bcbd-e02ca3b5008e",
+  "name": "Validation - good",
+  "auto": true,
+  "contexts": [
+    "GetPassword-followup",
+    "username",
+    "password"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-yes.DefaultWelcomeIntent-yes-custom.StudentName-yes.ProfilingReply-yes-custom.GetUsername-custom.GetPassword-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

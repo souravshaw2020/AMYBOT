@@ -1,0 +1,54 @@
+{
+  "id": "a75d273f-54de-4916-a54e-f097e22fee28",
+  "parentId": "03a56400-5386-4652-9389-702000ddf0ba",
+  "rootParentId": "0dacee3a-ebe9-4cff-949f-a1663e96b5bc",
+  "name": "StudNameFallback - yes",
+  "contexts": [
+    "DefaultWelcomeIntent-yes-followup",
+    "DefaultWelcomeIntent-yes-followup-2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-yes.DefaultWelcomeIntent-yes-fallback",
+      "affectedContexts": [
+        {
+          "name": "StudentName-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Did you appear for any of the profiling tests (CIP \u0026 MIP) that we offer?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

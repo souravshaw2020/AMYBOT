@@ -1,0 +1,41 @@
+{
+  "id": "5e85b744-fc47-4742-9cf4-5886ec9b957b",
+  "parentId": "a7c20436-2757-46ff-afe2-22ea7c498484",
+  "rootParentId": "4e79171f-327a-4c5e-90ae-4c23c38e05fa",
+  "name": "IntelligenceDescription - yes",
+  "auto": true,
+  "contexts": [
+    "Subjects-NonFav-Why-MI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Hobbies-MIHobbies.Hobbies-MIHobbies-custom.SubjectsFav-MI-fallback.SubjectsFav-Why-MISubjects-custom.Subjects-NonFav-MI-fallback.Subjects-NonFav-Why-MI-yes",
+      "affectedContexts": [
+        {
+          "name": "ReportIntelligence-MI",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

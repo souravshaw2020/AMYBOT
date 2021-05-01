@@ -1,0 +1,9 @@
+{
+  "id": "8d87d675-96fe-403d-ab35-568b255dadb7",
+  "name": "sports-games",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

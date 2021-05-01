@@ -1,0 +1,57 @@
+{
+  "id": "577c7160-3318-4a5c-9c5f-0d5d1f1a2b24",
+  "name": "StudentMarks-MI",
+  "auto": true,
+  "contexts": [
+    "StudentClass-MI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "TestExperience-MI.TestExperience-MI-yes.TestExperience-MI-yes-custom.StudentClass-MI-custom",
+      "affectedContexts": [
+        {
+          "name": "StudentMarks-MI-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6e4c9b5f-9679-45ee-a183-17778fb3b637",
+          "name": "percent",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$percent",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I see. Tell me more about who all are in your family?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

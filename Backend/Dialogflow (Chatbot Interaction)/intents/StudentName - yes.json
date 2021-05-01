@@ -1,0 +1,79 @@
+{
+  "id": "6652e803-bcd8-4417-86bb-010bda940827",
+  "parentId": "03a56400-5386-4652-9389-702000ddf0ba",
+  "rootParentId": "0dacee3a-ebe9-4cff-949f-a1663e96b5bc",
+  "name": "StudentName - yes",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-yes.DefaultWelcomeIntent-yes-custom",
+      "affectedContexts": [
+        {
+          "name": "StudentName-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "StudentName-followup-2",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "957a044a-26e0-4ae1-a770-79aa3cfe961a",
+          "name": "first-name",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "value": "$first-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6d5cb963-bacc-409d-b073-4a44d144eaad",
+          "name": "last-name",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "value": "$last-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi $first-name! Did you appear for any of the profiling tests?",
+            "Hello $first-name.  Did you appear for the Career Profiling or Multiple Intelligence Profiling test?",
+            "So $first-name, did you appear for the profiling tests provided by us?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,132 @@
+[
+  {
+    "data": [
+      {
+        "text": "92",
+        "meta": "@sys.number",
+        "alias": "percent",
+        "userDefined": false
+      },
+      {
+        "text": " percentage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "74",
+        "meta": "@sys.number",
+        "alias": "percent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "84",
+        "meta": "@sys.number",
+        "alias": "percent",
+        "userDefined": false
+      },
+      {
+        "text": " percent in my final exam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "I got a total percentage of ",
+        "userDefined": false
+      },
+      {
+        "text": "98",
+        "meta": "@sys.number",
+        "alias": "percent",
+        "userDefined": false
+      },
+      {
+        "text": "percent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "82",
+        "meta": "@sys.number",
+        "alias": "percent",
+        "userDefined": false
+      },
+      {
+        "text": " percent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "80",
+        "meta": "@sys.number",
+        "alias": "percent",
+        "userDefined": false
+      },
+      {
+        "text": "%",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "I got ",
+        "userDefined": false
+      },
+      {
+        "text": "90",
+        "meta": "@sys.number",
+        "alias": "percent",
+        "userDefined": true
+      },
+      {
+        "text": " percentage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

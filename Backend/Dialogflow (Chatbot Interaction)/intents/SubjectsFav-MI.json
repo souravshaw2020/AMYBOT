@@ -1,0 +1,59 @@
+{
+  "id": "b93ac84d-5a08-43a3-afcf-9852e11cf61f",
+  "parentId": "4e79171f-327a-4c5e-90ae-4c23c38e05fa",
+  "rootParentId": "4e79171f-327a-4c5e-90ae-4c23c38e05fa",
+  "name": "SubjectsFav-MI",
+  "auto": true,
+  "contexts": [
+    "Hobbies-MIHobbies-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Hobbies-MIHobbies.Hobbies-MIHobbies-custom",
+      "affectedContexts": [
+        {
+          "name": "SubjectsFav-MI-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1f04cb87-acb3-4790-bf0f-95b46f194361",
+          "name": "subjects",
+          "required": false,
+          "dataType": "@subjects-MI",
+          "value": "$subjects",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Why are they your favourite subject?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

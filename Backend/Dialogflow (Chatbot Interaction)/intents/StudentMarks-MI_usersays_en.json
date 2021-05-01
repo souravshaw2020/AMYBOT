@@ -1,0 +1,123 @@
+[
+  {
+    "id": "e847d992-2ed0-4cff-9218-c86f5589631e",
+    "data": [
+      {
+        "text": "84",
+        "meta": "@sys.number",
+        "alias": "percent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51f1d044-a58a-42cd-bffb-83293b6e3161",
+    "data": [
+      {
+        "text": "90",
+        "meta": "@sys.number",
+        "alias": "percent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6deb341c-4d2a-4a7a-9f7f-1a1ccc2647d8",
+    "data": [
+      {
+        "text": "84 percent",
+        "meta": "@sys.number",
+        "alias": "percent",
+        "userDefined": false
+      },
+      {
+        "text": " in my final exam.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5cba377-8638-4afd-b1c8-8e8b7c4e71cf",
+    "data": [
+      {
+        "text": "I got a total percentage of ",
+        "userDefined": false
+      },
+      {
+        "text": "98 percent",
+        "meta": "@sys.number",
+        "alias": "percent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b73eb762-2895-4de6-ad95-b3c52e823dc7",
+    "data": [
+      {
+        "text": "82 percent",
+        "meta": "@sys.number",
+        "alias": "percent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3141f530-df34-4b81-985f-4abe31606a47",
+    "data": [
+      {
+        "text": "80%",
+        "meta": "@sys.number",
+        "alias": "percent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1e7ff23-4a49-4413-8621-7358ab89ea37",
+    "data": [
+      {
+        "text": "I got ",
+        "userDefined": false
+      },
+      {
+        "text": "90 percentage",
+        "meta": "@sys.number",
+        "alias": "percent",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

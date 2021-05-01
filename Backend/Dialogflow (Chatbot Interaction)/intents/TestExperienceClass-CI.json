@@ -1,0 +1,45 @@
+{
+  "id": "71c3ef97-90fa-4f5c-8131-3156c39392be",
+  "parentId": "11ee83d4-c0d5-4900-abc8-a85f1bc3e651",
+  "rootParentId": "11ee83d4-c0d5-4900-abc8-a85f1bc3e651",
+  "name": "TestExperienceClass-CI",
+  "auto": true,
+  "contexts": [
+    "TestExperience-CI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "TestExperience-CI.TestExperience-CI-yes",
+      "affectedContexts": [
+        {
+          "name": "TestExperience-CI-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "So tell me, which class are you in?",
+            "Okay. So which class are you in currently?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

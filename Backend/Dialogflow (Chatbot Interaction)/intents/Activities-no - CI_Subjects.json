@@ -1,0 +1,44 @@
+{
+  "id": "b309ccae-2bcb-4558-b447-5677ede4d639",
+  "parentId": "a21bcc11-1bfc-4c92-a943-f3f0f712b28d",
+  "rootParentId": "11ee83d4-c0d5-4900-abc8-a85f1bc3e651",
+  "name": "Activities-no - CI|Subjects",
+  "auto": true,
+  "contexts": [
+    "OtherHobbies-CIHobbies-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "TestExperience-CI.TestExperience-CI-yes.TestExperience-CI-yes-custom.StudentClass-CI-custom.StudentMarks-CI-yes.StudentMarks-CI-yes-custom.SportsGames-CIHobbies-custom.Hobbies-CIHobbies-custom.OtherHobbies-CIHobbies-no",
+      "affectedContexts": [
+        {
+          "name": "Subjects-Favourite-CI",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alright. Now tell me your favourite subjects."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

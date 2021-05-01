@@ -1,0 +1,36 @@
+{
+  "id": "2b2551d3-a634-4852-8510-3c7cf2857069",
+  "parentId": "26d618b5-fd8a-41c4-8a1c-e46b7feda3d8",
+  "rootParentId": "53cc1a56-a705-4f56-975a-d1df39a97aee",
+  "name": "RequiredSubjects-MI-no",
+  "auto": true,
+  "contexts": [
+    "CareerDesc-MI-CareerInfo-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CategoryPick-MI.CategoryPick-MI-custom.CareerPick-MI-custom.CareerDesc-MI-CareerInfo-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

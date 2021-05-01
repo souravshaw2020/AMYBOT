@@ -1,0 +1,56 @@
+{
+  "id": "26d618b5-fd8a-41c4-8a1c-e46b7feda3d8",
+  "parentId": "224ab16f-028d-4eb7-86ef-8030d5a75630",
+  "rootParentId": "53cc1a56-a705-4f56-975a-d1df39a97aee",
+  "name": "CareerDesc-MI - CareerInfo",
+  "auto": true,
+  "contexts": [
+    "CareerPick-MI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CategoryPick-MI.CategoryPick-MI-custom.CareerPick-MI-custom",
+      "affectedContexts": [
+        {
+          "name": "CareerDesc-MI-CareerInfo-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5cb0e9e2-dca2-47a4-8ef6-fa7d35440d17",
+          "name": "careers",
+          "required": false,
+          "dataType": "@careers-MI",
+          "value": "$careers",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

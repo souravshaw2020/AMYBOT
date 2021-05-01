@@ -1,0 +1,59 @@
+{
+  "id": "2e2efa95-3b13-41be-9bf0-767e1f7757cc",
+  "parentId": "71c3ef97-90fa-4f5c-8131-3156c39392be",
+  "rootParentId": "11ee83d4-c0d5-4900-abc8-a85f1bc3e651",
+  "name": "StudentClass-CI",
+  "auto": true,
+  "contexts": [
+    "TestExperience-CI-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "TestExperience-CI.TestExperience-CI-yes.TestExperience-CI-yes-custom",
+      "affectedContexts": [
+        {
+          "name": "StudentClass-CI-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5d789519-e06b-4741-918b-35d6b2e58da2",
+          "name": "class",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$class",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alright. And what was your overall percentage in the final exams?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

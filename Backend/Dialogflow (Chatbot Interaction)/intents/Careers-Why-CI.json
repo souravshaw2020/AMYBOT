@@ -1,0 +1,43 @@
+{
+  "id": "4b9c658f-0fe7-49d6-894b-051ce5bd18ff",
+  "parentId": "28c7683a-8c9c-4821-b921-66c51d4b55c3",
+  "rootParentId": "71df94ff-f0a7-4e16-be10-ac455bfb6ae6",
+  "name": "Careers-Why-CI",
+  "contexts": [
+    "Careers-CI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SubjectsFav-CI.SubjectsFav-CI-fallback.SubjectsFav-Why-CI-custom.Subjects-NonFav-CI-fallback.Subjects-NonFav-Why-CI-custom.Careers-CI-fallback",
+      "affectedContexts": [
+        {
+          "name": "Careers-Why-CI-followup",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay. Any other career that you want to tell me about?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

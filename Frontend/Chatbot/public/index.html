@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admizzionz Campuz | Chat</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+    <style>
+        #show-option-button {
+            height: fit-content;
+            border-radius: 8px;
+        }
+        #button1, #button2, #button3, #button4 {
+            padding-top: 2px;
+            padding-top: 2px;
+            outline: none;
+        }
+        .button {
+            border: 2px solid #008CBA;
+            border-radius: 25px;
+            color: #008CBA;
+            padding: 5px 15px;
+            text-align: center;
+            font-weight: bold;
+            text-decoration: none;
+            transition-duration: 0.2s;
+            display: inline-block;
+            font-size: 16px;
+            margin: 2px 1px;
+            cursor: pointer;
+        }
+        .button:hover {
+            background-color: #008CBA;
+            color: white;
+        }
+        .selectBox {
+            position: relative;
+        }
+        .selectBox select {
+            width: 100%;
+            font-weight: bold;
+        }
+        .overSelect {
+            position: absolute;
+            left: 0; right: 0; top: 0; bottom: 0;
+        }
+        .modal {
+            background-color: rgba(0, 0, 0, 0.8);
+            height: 100%;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        .modal-contents {
+            display: none;
+            position: absolute;
+            right: 30px;
+            width: 500px;
+            height: 510px;
+            background-color: white;
+            border-radius: 5px;
+            text-align: center;
+            padding: 20px;
+            box-shadow: 0 6px 8px rgba(0, 0, 0, 0.1);
+        }
+        .modal-contents h5 {
+            font-family: 'Montserrat', sans-serif;
+            margin-bottom: 20px;
+        }
+        .modal-contents input[type="text"] {
+            width: 80%;
+            height: 10%;
+            font-family: 'Montserrat', sans-serif;
+            color: grey;
+        }
+        .modal-contents input:focus {
+            outline-color: grey;
+        }
+        .container {
+            margin-top: 10px;
+            height: 255px;
+            overflow: hidden;
+            overflow-y: scroll;
+        }
+        #group input[type="checkbox"] + label {
+            display: block;
+            margin: 0.2em;
+        }
+        #group input[type="checkbox"] {
+            display: none;
+        }
+        #group label {
+            font-family: 'Montserrat', sans-serif;
+            padding: 0.5em;
+        }
+        #group input[type="checkbox"] + label:before {
+            content: "\2713";
+            border: 0.1em solid #000;
+            border-radius: 0.2em;
+            display: inline-block;
+            width: 1.4em;
+            height: 1.4em;
+            margin-right: 0.5em;
+            vertical-align: top;
+            color: transparent;
+            transition: 0.2s;
+        }
+        #group input[type="checkbox"] + label:active:before {
+            transform:scale(0);
+        }
+        #group input[type="checkbox"]:checked + label:before {
+            background-color: #095FB4;
+            border-color: #095FB4;
+            color: #fff;
+        }
+        .modal-hidden {
+            display: none;
+        }
+        .chips-container {
+            margin-top: 20px;
+            overflow-x: auto;
+            white-space: nowrap;
+            height: 50px;
+        }
+        .chip {
+            display: inline-block;
+            padding: 0 25px;
+            height: 30px;
+            font-size: 14px;
+            line-height: 28px;
+            font-family: 'Montserrat', sans-serif;
+            border-radius: 25px;
+            border: 0.5px solid;
+            background-color: #f1f1f1;
+        }
+        .closebtn {
+            padding-left: 10px;
+            color: #888;
+            font-weight: bold;
+            float: right;
+            font-size: 15px;
+            cursor: pointer;
+        }
+        .closebtn:hover {
+            color: #000;
+        }
+        #snackbar {
+            visibility: hidden;
+            min-width: 250px;
+            margin-left: -125px;
+            background-color: #095FB4;
+            color: #fff;
+            text-align: center;
+            border-radius: 2px;
+            padding: 16px;
+            position: fixed;
+            z-index: 1;
+            left: 50%;
+            bottom: 30px;
+            font-size: 17px;
+            font-weight: bold;
+        }
+        #snackbar.show {
+            visibility: visible;
+            -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+            animation: fadein 0.5s, fadeout 0.5s 2.5s;
+        }
+        .card-container {
+            display: none;
+            grid-gap: 70px;
+            overflow-y: auto;
+        }
+        .progress-container {
+            width: 800px;
+            height: auto;
+            padding-right: 70px;
+            padding-left: 70px;
+            display: none;
+            background-color: white;
+            border-radius: 10px;
+            text-align: center;
+            box-shadow: 0 6px 8px rgba(0, 0, 0, 0.1);
+        }
+        .progress-container h2 {
+            font-family: 'Poppins', sans-serif;
+            font-size: 25px;
+            margin-top: 30px;
+            margin-bottom: 40px;
+            border-left: 5px solid #e74c3c;
+            border-right: 5px solid #e74c3c;
+        }
+        .progress {
+            margin-top: 25px;
+            margin-bottom: 25px;
+            font-family: 'Roboto', sans-serif;
+            font-size: 15px;
+            height: 35px;
+            border-radius: 10px;
+        }
+        .card {
+            display: grid;
+            font-family: 'Poppins', sans-serif;
+            border-radius: 18px;
+            background: white;
+            box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.9);
+            text-align: center;
+            transition: 0.5s ease;
+            margin-left: 25px;
+            margin-right: 25px;
+        }
+        .card:hover {
+            transform: scale(1.05);
+            box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.6);
+        }
+        .card-body img {
+            margin-top: -50px;
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            background-color: #f0f0f0;
+            margin-bottom: 15px;
+        }
+        .card-body h2 {
+            font-size: 22px;
+            margin-bottom: 20px;
+            border-left: 3px solid #e74c3c;
+            border-right: 3px solid #e74c3c;
+        }
+        .card-body p {
+            font-size: 15px;
+            font-family: 'Roboto', sans-serif;
+        }
+        #card-spinner, #progress-spinner, #options-spinner {
+            position: absolute;
+            width: 70px;
+            height: 70px;
+            border-width: 7px;
+            display: none;
+        }
+        #new-extras {
+            position: sticky;
+            left: 50px;
+            display: none;
+            vertical-align: middle;
+        }
+        #info-buttons {
+            display: block;
+            margin-top: 60px;
+            margin-bottom: 60px;
+            font-size: 20px;
+            height: 55px;
+            width: 60px; 
+            border-radius: 50%;
+        }
+
+        @-webkit-keyframes fadein {
+            from {bottom: 0; opacity: 0;} 
+            to {bottom: 30px; opacity: 1;}
+        }
+
+        @keyframes fadein {
+            from {bottom: 0; opacity: 0;}
+            to {bottom: 30px; opacity: 1;}
+        }
+
+        @-webkit-keyframes fadeout {
+            from {bottom: 30px; opacity: 1;} 
+            to {bottom: 0; opacity: 0;}
+        }
+
+        @keyframes fadeout {
+            from {bottom: 30px; opacity: 1;}
+            to {bottom: 0; opacity: 0;}
+        }
+    </style>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-12">
+                <img src="static/logo.png" alt="logo" align="left">
+                <h1><b>WELCOME TO <span>ADMIZZIONZ CAMPUZ</span></b></h1>
+            </div>
+        </div>
+        <div class="row" id="bg">
+            <div class="col-sm-12">
+                <div class="chat-box">
+                    <div class="chat-title">
+                        <div class="col-sm-12">
+                        <h2>AMYBOT
+                            <span>
+                                <input type="checkbox" class="checkbox-mode" id="checkbox-mode">
+                                <label for="checkbox-mode" class="label-mode">
+                                    <i class="fas fa-moon"></i>
+                                    <i class="fas fa-sun"></i>
+                                    <div class="ball-mode"></div>
+                                </label>
+                            </span>
+                        </h2>
+                        <h3>I'm your Counsellor for today!
+                            <span>
+                                <input type="checkbox" class="checkbox-mic" id="checkbox-mic">
+                                <label for="checkbox-mic" class="label-mic">
+                                    <i id="mic-no-slash" class="fas fa-microphone"></i>
+                                    <i class="fas fa-microphone-slash"></i>
+                                    <div class="ball-mic"></div>
+                                </label>
+                            </span>
+                        </h3>
+                        </div>
+                    </div>
+                    <div class="messages">
+                        <div class="messages-content">
+                            <div class="col-sm-12"></div>
+                        </div>
+                    </div>
+                    <div id="extras" class="popupButtons"></div>
+                    <form class="message-box" id="mymsg" method="POST">
+                        <div class="col-sm-12">
+                            <input type="text" id="MSG" name="MSG" class="message-input" placeholder="Ask Something..." spellcheck="true" required>
+                            <i class="fas fa-microphone" id="start-record-btn"></i>
+                            <button type="submit" class="message-submit">Send</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div id="new-extras"></div>
+        </div>
+    </div>
+    
+    <div id="modal-id" class="modal modal-hidden">
+        <div id="contents" class="modal-contents">
+            <h5 style="border-left: 5px solid #e74c3c; border-right: 5px solid #e74c3c;">Select your choices</h5>
+            <input id="search" type="text" placeholder="Search..." autofocus>
+            <div class="container">
+                <div id="group"></div>
+            </div>
+            <div id="all-chips" class="chips-container"></div>
+            <button class="btn btn-dark" style="font-family: 'Montserrat', sans-serif; width: 30%; margin-top: 12px;" type="submit" onclick="doneModal()">Done</button>
+        </div>
+        <div id="options-button" style="position: absolute; top: 30px; left: 30px;">
+            <button style="font-family: 'Montserrat', sans-serif;" type="button" class="btn btn-danger" onclick="closeModal();">Close</button>
+        </div>
+        <div id="options-spinner" class="spinner-border text-light" role="status">
+            <span class="sr-only">Loading...</span>
+        </div>
+        <div id="snackbar"></div>
+        <div id="info-categories" style="display: none ;background-color: grey; position: absolute; left: 200px; padding-top: 12px; padding-left: 20px; padding-right: 20px; border-radius: 10px;">
+            <p style="font-size: 20px; color: white; font-family: 'Poppins', sans-serif; position: relative;">Categories in grey -> require your weak subjects</p>
+        </div>
+    </div>
+
+    <div id="card-modal" class="modal modal-hidden">
+        <div class="card-container"></div>
+        <div id="personality-button" style="position: absolute; top: 30px; right: 30px;">
+            <button style="font-family: 'Montserrat', sans-serif;" type="button" class="btn btn-danger" onclick="closeExtraModals('card');">Close</button>
+        </div>
+        <div id="card-spinner" class="spinner-border text-light" role="status">
+            <span class="sr-only">Loading...</span>
+        </div>
+    </div>
+
+    <div id="progress-modal" class="modal modal-hidden">
+        <div class="progress-container"></div>
+        <div id="progress-button" style="position: absolute; top: 30px; right: 30px;">
+            <button style="font-family: 'Montserrat', sans-serif;" type="button" class="btn btn-danger" onclick="closeExtraModals('progress');">Close</button>
+        </div>
+        <div id="progress-spinner" class="spinner-border text-light" role="status">
+            <span class="sr-only">Loading...</span>
+        </div>
+    </div>
+
+    <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.js'></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>

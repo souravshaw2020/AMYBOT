@@ -1,0 +1,475 @@
+[
+  {
+    "value": "Badminton",
+    "synonyms": [
+      "Badminton",
+      "badminton"
+    ]
+  },
+  {
+    "value": "Bowling",
+    "synonyms": [
+      "Bowling",
+      "bowling"
+    ]
+  },
+  {
+    "value": "Boxing",
+    "synonyms": [
+      "Boxing",
+      "boxing"
+    ]
+  },
+  {
+    "value": "Cycling",
+    "synonyms": [
+      "Cycling",
+      "cycling"
+    ]
+  },
+  {
+    "value": "Figure Skating",
+    "synonyms": [
+      "Figure Skating",
+      "Figure skating",
+      "figure skating"
+    ]
+  },
+  {
+    "value": "Golf",
+    "synonyms": [
+      "Golf",
+      "golf"
+    ]
+  },
+  {
+    "value": "Skiing",
+    "synonyms": [
+      "Skiing",
+      "skiing",
+      "ski",
+      "skii",
+      "Ski",
+      "Skii"
+    ]
+  },
+  {
+    "value": "Snowboarding",
+    "synonyms": [
+      "Snowboarding",
+      "snowboarding"
+    ]
+  },
+  {
+    "value": "Surfing",
+    "synonyms": [
+      "Surfing",
+      "surfing",
+      "surf"
+    ]
+  },
+  {
+    "value": "Swimming",
+    "synonyms": [
+      "Swimming",
+      "swimming",
+      "swim"
+    ]
+  },
+  {
+    "value": "Track and Field",
+    "synonyms": [
+      "Track and Field",
+      "Track and field",
+      "track and field"
+    ]
+  },
+  {
+    "value": "Wrestling",
+    "synonyms": [
+      "Wrestling",
+      "wrestling"
+    ]
+  },
+  {
+    "value": "Paragliding",
+    "synonyms": [
+      "Paragliding",
+      "paragliding",
+      "paraglide",
+      "Paraglide"
+    ]
+  },
+  {
+    "value": "River rafting",
+    "synonyms": [
+      "River rafting",
+      "river rafting",
+      "River Rafting",
+      "river",
+      "rafting",
+      "Rafting"
+    ]
+  },
+  {
+    "value": "Scuba Diving",
+    "synonyms": [
+      "Scuba Diving",
+      "scuba",
+      "diving",
+      "scuba diving"
+    ]
+  },
+  {
+    "value": "Yoga",
+    "synonyms": [
+      "Yoga",
+      "yoga",
+      "yog"
+    ]
+  },
+  {
+    "value": "Gymming",
+    "synonyms": [
+      "Gymming",
+      "hym",
+      "gym",
+      "Gym",
+      "Gmming",
+      "Gyming",
+      "gyming"
+    ]
+  },
+  {
+    "value": "Martial Arts",
+    "synonyms": [
+      "Martial Arts",
+      "martial arts",
+      "martialarts",
+      "martial",
+      "martial art",
+      "Martial art"
+    ]
+  },
+  {
+    "value": "Horse Riding",
+    "synonyms": [
+      "horse",
+      "hore riding",
+      "horse riding",
+      "Horse riding"
+    ]
+  },
+  {
+    "value": "Canoeing",
+    "synonyms": [
+      "canoe",
+      "canoeing",
+      "Canoeing"
+    ]
+  },
+  {
+    "value": "Trekking",
+    "synonyms": [
+      "Trekking",
+      "trek",
+      "trekk",
+      "Trek",
+      "Trekk",
+      "trekking"
+    ]
+  },
+  {
+    "value": "Yachting",
+    "synonyms": [
+      "Yachting",
+      "yachting",
+      "yacht",
+      "tach",
+      "yach"
+    ]
+  },
+  {
+    "value": "Basketball",
+    "synonyms": [
+      "Basketball",
+      "basketball",
+      "bb",
+      "basket",
+      "BB"
+    ]
+  },
+  {
+    "value": "Baseball",
+    "synonyms": [
+      "Baseball",
+      "baseball",
+      "base",
+      "Base"
+    ]
+  },
+  {
+    "value": "Cheerleading",
+    "synonyms": [
+      "Cheerleading",
+      "cheerleading",
+      "cheerleader"
+    ]
+  },
+  {
+    "value": "Cricket",
+    "synonyms": [
+      "Cricket",
+      "cricket"
+    ]
+  },
+  {
+    "value": "Football",
+    "synonyms": [
+      "Football",
+      "football",
+      "Soccer",
+      "soccer"
+    ]
+  },
+  {
+    "value": "Ice Hockey",
+    "synonyms": [
+      "Ice Hockey",
+      "ice hokey",
+      "Ice hockey"
+    ]
+  },
+  {
+    "value": "Handball",
+    "synonyms": [
+      "Handball",
+      "handball",
+      "handy",
+      "hand"
+    ]
+  },
+  {
+    "value": "Lacrosse",
+    "synonyms": [
+      "Lacrosse",
+      "lacrosse"
+    ]
+  },
+  {
+    "value": "Rowing",
+    "synonyms": [
+      "Rowing",
+      "rowing",
+      "row",
+      "Roe",
+      "Row"
+    ]
+  },
+  {
+    "value": "Rugby",
+    "synonyms": [
+      "Rugby",
+      "rugby"
+    ]
+  },
+  {
+    "value": "Softball",
+    "synonyms": [
+      "Softball",
+      "softball"
+    ]
+  },
+  {
+    "value": "Tennis",
+    "synonyms": [
+      "Tennis",
+      "tennis",
+      "Lawn Tennis",
+      "Lawn tennis",
+      "lawn tennis"
+    ]
+  },
+  {
+    "value": "Volleyball",
+    "synonyms": [
+      "Volleyball",
+      "volley",
+      "volleyball"
+    ]
+  },
+  {
+    "value": "Water Polo",
+    "synonyms": [
+      "Water Polo",
+      "water polo",
+      "Water polo",
+      "Polo",
+      "polo"
+    ]
+  },
+  {
+    "value": "Carrom",
+    "synonyms": [
+      "Carrom",
+      "carrom"
+    ]
+  },
+  {
+    "value": "Backyard Football",
+    "synonyms": [
+      "Backyard Football",
+      "Backyard football",
+      "backyard football"
+    ]
+  },
+  {
+    "value": "Table Tennis",
+    "synonyms": [
+      "Table Tennis",
+      "table tennis",
+      "Table tennis",
+      "TT",
+      "tt"
+    ]
+  },
+  {
+    "value": "Hoola Hooping",
+    "synonyms": [
+      "Hoola Hooping",
+      "Hoola hooping",
+      "hoola hooping"
+    ]
+  },
+  {
+    "value": "Treadmill Workout",
+    "synonyms": [
+      "Treadmill Workout",
+      "Treadmill workout",
+      "treadmill workout"
+    ]
+  },
+  {
+    "value": "Basement Skateboarding",
+    "synonyms": [
+      "Basement Skateboarding",
+      "Basement skateboarding",
+      "basement skateboarding",
+      "skateboarding",
+      "Skateboarding"
+    ]
+  },
+  {
+    "value": "Indoor Basketball",
+    "synonyms": [
+      "Indoor Basketball",
+      "Indoor basketball",
+      "indoor basketball"
+    ]
+  },
+  {
+    "value": "Fun with Archery",
+    "synonyms": [
+      "Fun with Archery",
+      "Fun with archery",
+      "fun with archery",
+      "archery",
+      "Archery"
+    ]
+  },
+  {
+    "value": "Dance",
+    "synonyms": [
+      "Dance",
+      "dance"
+    ]
+  },
+  {
+    "value": "Darts",
+    "synonyms": [
+      "Darts",
+      "darts"
+    ]
+  },
+  {
+    "value": "Spot Jogging",
+    "synonyms": [
+      "Spot Jogging",
+      "spot jogging",
+      "Spot jogging"
+    ]
+  },
+  {
+    "value": "Sit on a Gymball and Work",
+    "synonyms": [
+      "Sit on a Gymball and Work",
+      "Sit on a gymball and work",
+      "sit on a gymball and work",
+      "Gymball",
+      "gymball"
+    ]
+  },
+  {
+    "value": "Trampolining",
+    "synonyms": [
+      "Trampolining",
+      "trampolining"
+    ]
+  },
+  {
+    "value": "Home Trainer for Cycling",
+    "synonyms": [
+      "Home Trainer for Cycling",
+      "Home trainer for cycling",
+      "Home trainer for Cycling",
+      "home trainer for cycling"
+    ]
+  },
+  {
+    "value": "Chess",
+    "synonyms": [
+      "Chess",
+      "chess"
+    ]
+  },
+  {
+    "value": "Sudoku",
+    "synonyms": [
+      "Sudoku",
+      "sudoku"
+    ]
+  },
+  {
+    "value": "Checkers",
+    "synonyms": [
+      "Checkers",
+      "checkers"
+    ]
+  },
+  {
+    "value": "Card Games",
+    "synonyms": [
+      "Card Games",
+      "Card games",
+      "card games",
+      "card",
+      "Card",
+      "card game",
+      "Card game",
+      "Card Game",
+      "Cards"
+    ]
+  },
+  {
+    "value": "Sky Diving",
+    "synonyms": [
+      "Sky Diving",
+      "sky dive",
+      "skyu",
+      "sky",
+      "dive sky",
+      "skydive",
+      "skydiving"
+    ]
+  }
+]

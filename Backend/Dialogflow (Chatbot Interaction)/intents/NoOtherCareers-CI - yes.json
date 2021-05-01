@@ -1,0 +1,36 @@
+{
+  "id": "18a49b86-e791-448e-a925-0ecea4571783",
+  "parentId": "4b9c658f-0fe7-49d6-894b-051ce5bd18ff",
+  "rootParentId": "71df94ff-f0a7-4e16-be10-ac455bfb6ae6",
+  "name": "NoOtherCareers-CI - yes",
+  "auto": true,
+  "contexts": [
+    "Careers-Why-CI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SubjectsFav-CI.SubjectsFav-CI-fallback.SubjectsFav-Why-CI-custom.Subjects-NonFav-CI-fallback.Subjects-NonFav-Why-CI-custom.Careers-CI-fallback.Careers-Why-CI-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

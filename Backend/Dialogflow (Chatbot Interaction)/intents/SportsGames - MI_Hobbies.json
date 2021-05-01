@@ -1,0 +1,60 @@
+{
+  "id": "53a6a567-5427-4a44-b8d3-4555cb9a66bd",
+  "parentId": "01c3d745-7041-410c-a7ac-03ac03b5666e",
+  "rootParentId": "577c7160-3318-4a5c-9c5f-0d5d1f1a2b24",
+  "name": "SportsGames - MI|Hobbies",
+  "auto": true,
+  "contexts": [
+    "MotherOccupation-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "StudentMarks-MI.StudentMarks-MI-custom.Family-custom.FatherOccupation-custom.MotherOccupation-yes.MotherOccupation-yes-custom",
+      "affectedContexts": [
+        {
+          "name": "Hobbies-MI",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ed949cef-267f-4fb8-8bfd-3fec27727813",
+          "name": "sports-games",
+          "required": false,
+          "dataType": "@sports-games-MI",
+          "value": "$sports-games",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great! What are your hobbies?",
+            "Great! Name your hobbies ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

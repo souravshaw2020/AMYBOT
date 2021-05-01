@@ -1,0 +1,162 @@
+[
+  {
+    "id": "b7b6d491-9ffd-4eec-95b1-b670da348025",
+    "data": [
+      {
+        "text": "Medicine",
+        "meta": "@categories-MI",
+        "alias": "categories",
+        "userDefined": true
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      },
+      {
+        "text": "Music Industry",
+        "meta": "@categories-MI",
+        "alias": "categories",
+        "userDefined": true
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      },
+      {
+        "text": "Photography",
+        "meta": "@categories-MI",
+        "alias": "categories",
+        "userDefined": true
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      },
+      {
+        "text": "Professionals",
+        "meta": "@categories-MI",
+        "alias": "categories",
+        "userDefined": true
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      },
+      {
+        "text": "Sports",
+        "meta": "@categories-MI",
+        "alias": "categories",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Retail",
+        "meta": "@categories-MI",
+        "alias": "categories",
+        "userDefined": true
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      },
+      {
+        "text": "Research",
+        "meta": "@categories-MI",
+        "alias": "categories",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "518920a0-188b-49a4-b1ff-664478423f56",
+    "data": [
+      {
+        "text": "Chartered Accountant",
+        "meta": "@categories-MI",
+        "alias": "categories",
+        "userDefined": false
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      },
+      {
+        "text": "Pilots",
+        "meta": "@categories-MI",
+        "alias": "categories",
+        "userDefined": false
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      },
+      {
+        "text": "Acoustic Engineers",
+        "meta": "@categories-MI",
+        "alias": "categories",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f87ae54-ea28-425c-b6f3-fa823047d7e2",
+    "data": [
+      {
+        "text": "Humanitarian",
+        "meta": "@categories-MI",
+        "alias": "categories",
+        "userDefined": true
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      },
+      {
+        "text": "Performing Arts",
+        "meta": "@categories-MI",
+        "alias": "categories",
+        "userDefined": false
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      },
+      {
+        "text": "Music Technology",
+        "meta": "@categories-MI",
+        "alias": "categories",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8464f1ef-7b4b-4802-8cc2-b9359bafecce",
+    "data": [
+      {
+        "text": "Performing Arts",
+        "meta": "@categories-MI",
+        "alias": "categories",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

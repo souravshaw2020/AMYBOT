@@ -1,0 +1,56 @@
+{
+  "id": "224ab16f-028d-4eb7-86ef-8030d5a75630",
+  "parentId": "53cc1a56-a705-4f56-975a-d1df39a97aee",
+  "rootParentId": "53cc1a56-a705-4f56-975a-d1df39a97aee",
+  "name": "CareerPick-MI",
+  "auto": true,
+  "contexts": [
+    "CategoryPick-MI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CategoryPick-MI.CategoryPick-MI-custom",
+      "affectedContexts": [
+        {
+          "name": "CareerPick-MI-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6410a22f-a4c4-41e1-be1a-36c122d65972",
+          "name": "categories",
+          "required": false,
+          "dataType": "@categories-MI",
+          "value": "$categories",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

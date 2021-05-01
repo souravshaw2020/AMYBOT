@@ -1,0 +1,205 @@
+[
+  {
+    "id": "37cc09ed-0863-4240-b199-9f3c9b845fe8",
+    "data": [
+      {
+        "text": "I am thinking of taking ",
+        "userDefined": false
+      },
+      {
+        "text": "computer science",
+        "meta": "@sys.any",
+        "alias": "future_other_careers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b99a17f8-f68e-4c76-a022-1271e4716c2e",
+    "data": [
+      {
+        "text": "I like computers as well so i am thinking about ",
+        "userDefined": false
+      },
+      {
+        "text": "CS",
+        "meta": "@sys.any",
+        "alias": "future_other_careers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "622e85e7-2e9b-47e4-9564-5cd16881bbae",
+    "data": [
+      {
+        "text": "I am wanting to be a ",
+        "userDefined": false
+      },
+      {
+        "text": "pilot",
+        "meta": "@sys.any",
+        "alias": "future_other_careers",
+        "userDefined": false
+      },
+      {
+        "text": " too",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64195cff-ccfb-4102-866f-4ef5bfcc32b7",
+    "data": [
+      {
+        "text": "I want to continue with ",
+        "userDefined": false
+      },
+      {
+        "text": "Sports",
+        "meta": "@sys.any",
+        "alias": "future_other_careers",
+        "userDefined": false
+      },
+      {
+        "text": " as my career",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20d2bfe2-c06d-41d8-9a39-452dfe14a667",
+    "data": [
+      {
+        "text": "I am wanting to take ",
+        "userDefined": false
+      },
+      {
+        "text": "medicine",
+        "meta": "@sys.any",
+        "alias": "future_other_careers",
+        "userDefined": false
+      },
+      {
+        "text": " as well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8ed29d6-4719-4f3c-b9c9-5fc7de8edbd0",
+    "data": [
+      {
+        "text": "Doctor",
+        "meta": "@sys.any",
+        "alias": "future_other_careers",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2589e4a-396d-43e6-97e6-96ea021f79b8",
+    "data": [
+      {
+        "text": "I am fascinated about space. So i am also considering to become an ",
+        "userDefined": false
+      },
+      {
+        "text": "Astronaut",
+        "meta": "@sys.any",
+        "alias": "future_other_careers",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "407ac8cb-de48-4041-a77f-f72a8dc0adbc",
+    "data": [
+      {
+        "text": "I also want to be a ",
+        "userDefined": false
+      },
+      {
+        "text": "fashion",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "model",
+        "meta": "@sys.any",
+        "alias": "future_other_careers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77e56adc-016d-497f-889b-867ab414d6a8",
+    "data": [
+      {
+        "text": "I also am interested in practicing ",
+        "userDefined": false
+      },
+      {
+        "text": "Law",
+        "meta": "@sys.any",
+        "alias": "future_other_careers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfd45315-ab34-4eef-8e9f-34f2e9e5a547",
+    "data": [
+      {
+        "text": "Designer",
+        "meta": "@sys.any",
+        "alias": "future_other_careers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

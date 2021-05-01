@@ -1,0 +1,378 @@
+[
+  {
+    "value": "Crossword",
+    "synonyms": [
+      "Crossword",
+      "crossword",
+      "cross-word",
+      "cross word",
+      "puzzles",
+      "puzzle",
+      "riddle",
+      "riddles"
+    ]
+  },
+  {
+    "value": "Quizzing",
+    "synonyms": [
+      "Quizzing",
+      "quiz",
+      "quizzer",
+      "quizes",
+      "quizzing",
+      "quizing"
+    ]
+  },
+  {
+    "value": "Reading",
+    "synonyms": [
+      "Reading",
+      "reading",
+      "read",
+      "red"
+    ]
+  },
+  {
+    "value": "Writing",
+    "synonyms": [
+      "Writing",
+      "write",
+      "writing",
+      "wrote"
+    ]
+  },
+  {
+    "value": "Singing",
+    "synonyms": [
+      "Singing",
+      "sing",
+      "sung"
+    ]
+  },
+  {
+    "value": "Guitar",
+    "synonyms": [
+      "Playing Guitar",
+      "guitar",
+      "playing guitar",
+      "musical instruments"
+    ]
+  },
+  {
+    "value": "Piano",
+    "synonyms": [
+      "Piano",
+      "playing piano"
+    ]
+  },
+  {
+    "value": "Synthesizer",
+    "synonyms": [
+      "Synthesizer",
+      "playing synthesizer",
+      "play synthesizer",
+      "keyboard"
+    ]
+  },
+  {
+    "value": "Violin",
+    "synonyms": [
+      "Violin",
+      "playing violin",
+      "play violin"
+    ]
+  },
+  {
+    "value": "Drums",
+    "synonyms": [
+      "Drums",
+      "drum",
+      "drums",
+      "playing drums",
+      "playing drum"
+    ]
+  },
+  {
+    "value": "Saxophone",
+    "synonyms": [
+      "Saxophone",
+      "playing saxophone",
+      "play saxophone"
+    ]
+  },
+  {
+    "value": "Banjo",
+    "synonyms": [
+      "Banjo",
+      "banjo",
+      "playing banjo",
+      "play banjo"
+    ]
+  },
+  {
+    "value": "Flute",
+    "synonyms": [
+      "Flute",
+      "playing flute",
+      "play flute"
+    ]
+  },
+  {
+    "value": "Tabla",
+    "synonyms": [
+      "Tabla",
+      "table",
+      "playing tabla",
+      "play tabla",
+      "dholak",
+      "dhak"
+    ]
+  },
+  {
+    "value": "Mridang",
+    "synonyms": [
+      "Mridang",
+      "playing mridang",
+      "play mridang"
+    ]
+  },
+  {
+    "value": "Sitar",
+    "synonyms": [
+      "Sitar",
+      "play sitar",
+      "playing sitar"
+    ]
+  },
+  {
+    "value": "Santoor",
+    "synonyms": [
+      "Santoor",
+      "santoor",
+      "playing santoor"
+    ]
+  },
+  {
+    "value": "Veena",
+    "synonyms": [
+      "Veena",
+      "playing veena",
+      "play veena",
+      "vina"
+    ]
+  },
+  {
+    "value": "Dancing",
+    "synonyms": [
+      "Dancing",
+      "dance",
+      "dancing"
+    ]
+  },
+  {
+    "value": "Choregraphy",
+    "synonyms": [
+      "Choregraphy",
+      "choreograph",
+      "choreography"
+    ]
+  },
+  {
+    "value": "Craftwork",
+    "synonyms": [
+      "Craftwork",
+      "craft",
+      "craftwork",
+      "doing craftwork"
+    ]
+  },
+  {
+    "value": "Sculpture",
+    "synonyms": [
+      "Sculptures",
+      "making sculptures",
+      "making sculpture",
+      "make sculpure"
+    ]
+  },
+  {
+    "value": "Drawing",
+    "synonyms": [
+      "Drawing",
+      "draw",
+      "drawing"
+    ]
+  },
+  {
+    "value": "Sketching",
+    "synonyms": [
+      "Sketching",
+      "sketch",
+      "doing sketching"
+    ]
+  },
+  {
+    "value": "Painting",
+    "synonyms": [
+      "Painting",
+      "paint",
+      "painting"
+    ]
+  },
+  {
+    "value": "Photography",
+    "synonyms": [
+      "Photography",
+      "photograph",
+      "photography"
+    ]
+  },
+  {
+    "value": "Videos",
+    "synonyms": [
+      "Videos",
+      "making videos",
+      "make videos"
+    ]
+  },
+  {
+    "value": "Debating",
+    "synonyms": [
+      "Debating",
+      "debate",
+      "debating"
+    ]
+  },
+  {
+    "value": "Elocution",
+    "synonyms": [
+      "Elocution",
+      "elocute",
+      "elocution"
+    ]
+  },
+  {
+    "value": "MUN",
+    "synonyms": [
+      "MUN",
+      "modern united nations",
+      "Modern UN",
+      "model united nations",
+      "model UN"
+    ]
+  },
+  {
+    "value": "Games",
+    "synonyms": [
+      "Games",
+      "video games",
+      "mobile games"
+    ]
+  },
+  {
+    "value": "Cooking",
+    "synonyms": [
+      "Cooking",
+      "cook",
+      "cooking"
+    ]
+  },
+  {
+    "value": "Theatre",
+    "synonyms": [
+      "Theatre",
+      "dooing theatre"
+    ]
+  },
+  {
+    "value": "Drama",
+    "synonyms": [
+      "Drama",
+      "dramatics",
+      "dramas"
+    ]
+  },
+  {
+    "value": "Acting",
+    "synonyms": [
+      "Acting",
+      "act",
+      "enact"
+    ]
+  },
+  {
+    "value": "Miming",
+    "synonyms": [
+      "Mining",
+      "mine",
+      "mining",
+      "miming",
+      "mime"
+    ]
+  },
+  {
+    "value": "Mimicry",
+    "synonyms": [
+      "Mimicry",
+      "mimic",
+      "mimicry"
+    ]
+  },
+  {
+    "value": "Classroom model",
+    "synonyms": [
+      "Classroom Model",
+      "classroom models",
+      "building classroom models",
+      "building class model",
+      "building class models"
+    ]
+  },
+  {
+    "value": "Social work",
+    "synonyms": [
+      "Social Work",
+      "social",
+      "social work",
+      "social works"
+    ]
+  },
+  {
+    "value": "Community service",
+    "synonyms": [
+      "Community Service",
+      "community service",
+      "community",
+      "service",
+      "community servicing"
+    ]
+  },
+  {
+    "value": "Keeping Pets",
+    "synonyms": [
+      "Keeping Pets",
+      "pets",
+      "pet",
+      "petting"
+    ]
+  },
+  {
+    "value": "Taking Care of Animal",
+    "synonyms": [
+      "Taking Care of Animal",
+      "taking care of animals",
+      "animal",
+      "animal consrvation",
+      "animal conservation"
+    ]
+  },
+  {
+    "value": "Gardening",
+    "synonyms": [
+      "Gardening",
+      "garden",
+      "gardening",
+      "doing gardening"
+    ]
+  }
+]

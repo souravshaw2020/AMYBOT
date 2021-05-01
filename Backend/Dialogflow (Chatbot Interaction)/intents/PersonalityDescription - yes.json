@@ -1,0 +1,31 @@
+{
+  "id": "bc8aa880-b137-4be4-8235-c22160f6c17a",
+  "name": "PersonalityDescription - yes",
+  "auto": true,
+  "contexts": [
+    "PersonalityDescription-CI"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SubjectsFav-CI.SubjectsFav-CI-custom.SubjectsFav-Why-CI-custom.Subjects-NonFav-CI-custom.Subjects-NonFav-Why-CI-custom.Careers-CI-custom.Careers-Why-CI-custom.OtherCareer-CI-custom.OtherCareer-Why-CI-yes.PersonalityTypes-CI-custom",
+      "affectedContexts": [
+        {
+          "name": "PersonalityDescription-CI-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

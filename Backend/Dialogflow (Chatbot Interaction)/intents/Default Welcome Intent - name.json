@@ -1,0 +1,51 @@
+{
+  "id": "03a56400-5386-4652-9389-702000ddf0ba",
+  "parentId": "0dacee3a-ebe9-4cff-949f-a1663e96b5bc",
+  "rootParentId": "0dacee3a-ebe9-4cff-949f-a1663e96b5bc",
+  "name": "Default Welcome Intent - name",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-yes",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-yes-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "DefaultWelcomeIntent-yes-followup-2",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Perfect! I\u0027m going to try and do it nice and quick. But first, could you please tell me your name?",
+            "Ok great! Let\u0027s get started. But before that, could you please tell me your name?",
+            "Amazing! Let\u0027s start with your name first. Please enter your name.",
+            "Great. Let\u0027s do this. Please type in your name."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

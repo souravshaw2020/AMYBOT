@@ -1,0 +1,55 @@
+{
+  "id": "2773487a-7812-4aaa-acb4-4f26deeddf92",
+  "name": "TestExperience-MI - yes",
+  "auto": true,
+  "contexts": [
+    "Validation-MI-followup",
+    "name-MI"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-yes.DefaultWelcomeIntent-yes-custom.StudentName-yes.ProfilingReply-yes-custom.GetUsername-custom.GetPassword-yes.Validation-custom",
+      "affectedContexts": [
+        {
+          "name": "TestExperience-MI-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay. So I want to get to know you better #name-MI.student_name.",
+            "So let\u0027s begin by getting to know you better #name-MI.student_name."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Are you ready?",
+            "Shall we start?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

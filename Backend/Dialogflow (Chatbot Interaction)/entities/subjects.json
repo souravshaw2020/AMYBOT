@@ -1,0 +1,9 @@
+{
+  "id": "823abbc1-4869-406e-ad6b-d8d97ce0305f",
+  "name": "subjects",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": "4e79171f-327a-4c5e-90ae-4c23c38e05fa",
+  "name": "Hobbies - MI|Subjects",
+  "auto": true,
+  "contexts": [
+    "Hobbies-MI"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Hobbies-MIHobbies-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4eccb833-7bf8-45e8-8b55-2ea87e404064",
+          "name": "hobbies",
+          "required": false,
+          "dataType": "@hobbies-MI",
+          "value": "$hobbies",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Name your favourite subjects ?",
+            "What are your favourite subjects?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

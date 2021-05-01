@@ -1,0 +1,39 @@
+{
+  "id": "80c80608-a6c1-4550-86a7-bc2762f4f69e",
+  "name": "RequiredSubjects-CI - yes",
+  "auto": true,
+  "contexts": [
+    "RequiredSubjects-CI"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PersonalityDescription-CI.PersonalityDescription-CI-yes.ReportPersonality-CI-yes.CII-Description-CI-yes.CII-Match-CI-yes.CII-Category-CI-custom.CategoryPick-CI-custom.CareerPick-CI-yes",
+      "affectedContexts": [
+        {
+          "name": "End-CI",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

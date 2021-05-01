@@ -1,0 +1,381 @@
+[
+  {
+    "value": "Accountancy",
+    "synonyms": [
+      "Accountancy"
+    ]
+  },
+  {
+    "value": "Agriculture",
+    "synonyms": [
+      "Agriculture"
+    ]
+  },
+  {
+    "value": "Arabic",
+    "synonyms": [
+      "Arabic"
+    ]
+  },
+  {
+    "value": "Arts",
+    "synonyms": [
+      "Arts"
+    ]
+  },
+  {
+    "value": "Assamese",
+    "synonyms": [
+      "Assamese"
+    ]
+  },
+  {
+    "value": "Bengali",
+    "synonyms": [
+      "Bengali"
+    ]
+  },
+  {
+    "value": "Bharatanatyam",
+    "synonyms": [
+      "Bharatanatyam"
+    ]
+  },
+  {
+    "value": "Biology",
+    "synonyms": [
+      "Biology"
+    ]
+  },
+  {
+    "value": "Biotechnology",
+    "synonyms": [
+      "Biotechnology"
+    ]
+  },
+  {
+    "value": "Bodo",
+    "synonyms": [
+      "Bodo"
+    ]
+  },
+  {
+    "value": "Business Studies",
+    "synonyms": [
+      "Business Studies"
+    ]
+  },
+  {
+    "value": "Chemistry",
+    "synonyms": [
+      "Chemistry",
+      "chemistry"
+    ]
+  },
+  {
+    "value": "Chinese",
+    "synonyms": [
+      "Chinese"
+    ]
+  },
+  {
+    "value": "Civics",
+    "synonyms": [
+      "Civics"
+    ]
+  },
+  {
+    "value": "Commerce",
+    "synonyms": [
+      "Commerce"
+    ]
+  },
+  {
+    "value": "Communicative English",
+    "synonyms": [
+      "Communicative English"
+    ]
+  },
+  {
+    "value": "Computer Science",
+    "synonyms": [
+      "Computer Science"
+    ]
+  },
+  {
+    "value": "Dogri",
+    "synonyms": [
+      "Dogri"
+    ]
+  },
+  {
+    "value": "Economics",
+    "synonyms": [
+      "Economics"
+    ]
+  },
+  {
+    "value": "English",
+    "synonyms": [
+      "English"
+    ]
+  },
+  {
+    "value": "Entrepreneurship",
+    "synonyms": [
+      "Entrepreneurship"
+    ]
+  },
+  {
+    "value": "Environmental Science",
+    "synonyms": [
+      "Environmental Science"
+    ]
+  },
+  {
+    "value": "Finance",
+    "synonyms": [
+      "Finance"
+    ]
+  },
+  {
+    "value": "French",
+    "synonyms": [
+      "French"
+    ]
+  },
+  {
+    "value": "Geography",
+    "synonyms": [
+      "Geography"
+    ]
+  },
+  {
+    "value": "German",
+    "synonyms": [
+      "German"
+    ]
+  },
+  {
+    "value": "Gujarati",
+    "synonyms": [
+      "Gujarati"
+    ]
+  },
+  {
+    "value": "Hindi",
+    "synonyms": [
+      "Hindi"
+    ]
+  },
+  {
+    "value": "History",
+    "synonyms": [
+      "History"
+    ]
+  },
+  {
+    "value": "Home Science",
+    "synonyms": [
+      "Home Science"
+    ]
+  },
+  {
+    "value": "Italian",
+    "synonyms": [
+      "Italian"
+    ]
+  },
+  {
+    "value": "Japanese",
+    "synonyms": [
+      "Japanese"
+    ]
+  },
+  {
+    "value": "Kannada",
+    "synonyms": [
+      "Kannada"
+    ]
+  },
+  {
+    "value": "Kashmiri",
+    "synonyms": [
+      "Kashmiri"
+    ]
+  },
+  {
+    "value": "Konkani",
+    "synonyms": [
+      "Konkani"
+    ]
+  },
+  {
+    "value": "Korean",
+    "synonyms": [
+      "Korean"
+    ]
+  },
+  {
+    "value": "Life Science",
+    "synonyms": [
+      "Life Science"
+    ]
+  },
+  {
+    "value": "Maithili",
+    "synonyms": [
+      "Maithili"
+    ]
+  },
+  {
+    "value": "Malayalam",
+    "synonyms": [
+      "Malayalam"
+    ]
+  },
+  {
+    "value": "Manipuri ",
+    "synonyms": [
+      "Manipuri "
+    ]
+  },
+  {
+    "value": "Marathi",
+    "synonyms": [
+      "Marathi"
+    ]
+  },
+  {
+    "value": "Mathematics",
+    "synonyms": [
+      "Mathematics"
+    ]
+  },
+  {
+    "value": "Nepali",
+    "synonyms": [
+      "Nepali"
+    ]
+  },
+  {
+    "value": "Odia",
+    "synonyms": [
+      "Odia"
+    ]
+  },
+  {
+    "value": "Pashto",
+    "synonyms": [
+      "Pashto"
+    ]
+  },
+  {
+    "value": "Persian",
+    "synonyms": [
+      "Persian"
+    ]
+  },
+  {
+    "value": "Philosophy",
+    "synonyms": [
+      "Philosophy"
+    ]
+  },
+  {
+    "value": "Physical Education",
+    "synonyms": [
+      "Physical Education"
+    ]
+  },
+  {
+    "value": "Physics",
+    "synonyms": [
+      "Physics"
+    ]
+  },
+  {
+    "value": "Political Science",
+    "synonyms": [
+      "Political Science"
+    ]
+  },
+  {
+    "value": "Psychology",
+    "synonyms": [
+      "Psychology"
+    ]
+  },
+  {
+    "value": "Punjabi",
+    "synonyms": [
+      "Punjabi"
+    ]
+  },
+  {
+    "value": "Russian",
+    "synonyms": [
+      "Russian"
+    ]
+  },
+  {
+    "value": "Sanskrit",
+    "synonyms": [
+      "Sanskrit"
+    ]
+  },
+  {
+    "value": "Santali",
+    "synonyms": [
+      "Santali"
+    ]
+  },
+  {
+    "value": "Sculpture",
+    "synonyms": [
+      "Sculpture"
+    ]
+  },
+  {
+    "value": "Sindhi",
+    "synonyms": [
+      "Sindhi"
+    ]
+  },
+  {
+    "value": "Spanish",
+    "synonyms": [
+      "Spanish"
+    ]
+  },
+  {
+    "value": "Tamil",
+    "synonyms": [
+      "Tamil"
+    ]
+  },
+  {
+    "value": "Telugu",
+    "synonyms": [
+      "Telugu"
+    ]
+  },
+  {
+    "value": "Turkish",
+    "synonyms": [
+      "Turkish"
+    ]
+  },
+  {
+    "value": "Urdu",
+    "synonyms": [
+      "Urdu"
+    ]
+  },
+  {
+    "value": "Web Design",
+    "synonyms": [
+      "Web Design"
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "id": "a4ad581c-c5ab-41d8-b1dc-8c74266cd52b",
+  "parentId": "71df94ff-f0a7-4e16-be10-ac455bfb6ae6",
+  "rootParentId": "71df94ff-f0a7-4e16-be10-ac455bfb6ae6",
+  "name": "SubjectsFav-Why - CI|Subjects",
+  "contexts": [
+    "SubjectsFav-CI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SubjectsFav-CI.SubjectsFav-CI-fallback",
+      "affectedContexts": [
+        {
+          "name": "SubjectsFav-Why-CI-followup",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay. Which are the subjects that you dislike?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

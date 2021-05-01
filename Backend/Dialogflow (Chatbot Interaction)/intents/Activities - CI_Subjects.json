@@ -1,0 +1,59 @@
+{
+  "id": "6cc47a3f-2a2e-4dfe-99ed-b21020f7913e",
+  "parentId": "96384574-bb93-4fff-8c8d-4412955af4f8",
+  "rootParentId": "8ad648fd-7e4a-44b0-b636-ec27a2cc40db",
+  "name": "Activities - CI|Subjects",
+  "auto": true,
+  "contexts": [
+    "Hobbies-CIHobbies-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SportsGames-CIHobbies.SportsGames-CIHobbies-custom.Hobbies-CIHobbies-custom",
+      "affectedContexts": [
+        {
+          "name": "Subjects-Favourite-CI",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6398b689-5a09-457e-8901-2015ee9a6bee",
+          "name": "hobbies",
+          "required": false,
+          "dataType": "@hobbies",
+          "value": "$hobbies",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Cool. Now tell me, which are your favourite subjects?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

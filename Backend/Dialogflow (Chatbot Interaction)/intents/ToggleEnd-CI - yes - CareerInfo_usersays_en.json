@@ -1,0 +1,219 @@
+[
+  {
+    "id": "914a287e-18f4-4d6f-ad0d-f958cabe1fae",
+    "data": [
+      {
+        "text": "Aerospace Engineering",
+        "meta": "@careers",
+        "alias": "careers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51c3dce6-f3ca-45c2-9c58-9e54918cb544",
+    "data": [
+      {
+        "text": "I want both ",
+        "userDefined": false
+      },
+      {
+        "text": "Aerospace Engineering",
+        "meta": "@careers",
+        "alias": "careers",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Automotive Engineering",
+        "meta": "@careers",
+        "alias": "careers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d5bfd6c-e9cc-4c75-bdad-97eb9944322c",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " go with ",
+        "userDefined": false
+      },
+      {
+        "text": "Biomedical Engineering",
+        "meta": "@careers",
+        "alias": "careers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d4c3518-28a7-42f7-9978-3958a3fa2cfe",
+    "data": [
+      {
+        "text": "Automotive Engineering",
+        "meta": "@careers",
+        "alias": "careers",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Biomedical Engineering",
+        "meta": "@careers",
+        "alias": "careers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb49d6fe-101a-4a95-9c4b-144ca1e88aef",
+    "data": [
+      {
+        "text": "Automotive Engineering",
+        "meta": "@careers",
+        "alias": "careers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e330cd2-07c6-48ec-830b-f59e6e9b8b4a",
+    "data": [
+      {
+        "text": "automotive engineering",
+        "meta": "@careers",
+        "alias": "careers",
+        "userDefined": false
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      },
+      {
+        "text": "biomedical engineering",
+        "meta": "@careers",
+        "alias": "careers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71947c1f-4ea3-488c-b358-962fd602f026",
+    "data": [
+      {
+        "text": "automotive engineering",
+        "meta": "@careers",
+        "alias": "careers",
+        "userDefined": false
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      },
+      {
+        "text": "aerospace engineering",
+        "meta": "@careers",
+        "alias": "careers",
+        "userDefined": false
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      },
+      {
+        "text": "biomedical engineering",
+        "meta": "@careers",
+        "alias": "careers",
+        "userDefined": false
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      },
+      {
+        "text": "computer engineering",
+        "meta": "@careers",
+        "alias": "careers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df61353a-bba7-44de-88ef-6b20297fb602",
+    "data": [
+      {
+        "text": "automotive engineering",
+        "meta": "@careers",
+        "alias": "careers",
+        "userDefined": false
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      },
+      {
+        "text": "aerospace engineering",
+        "meta": "@careers",
+        "alias": "careers",
+        "userDefined": false
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      },
+      {
+        "text": "biomedical engineering",
+        "meta": "@careers",
+        "alias": "careers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

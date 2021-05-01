@@ -1,0 +1,58 @@
+{
+  "id": "43288ac9-5655-43af-ae77-ae1e82c25ca1",
+  "name": "End-CI",
+  "auto": true,
+  "contexts": [
+    "End-CI"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PersonalityDescription-CI.PersonalityDescription-CI-yes.ReportPersonality-CI-yes.CII-Description-CI-yes.CII-Match-CI-yes.CII-Category-CI-custom.CategoryPick-CI-custom.ToggleEnd-CI-yes-CareerInfo-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "So #name-CI.student_name , that\u0027s it from my side. Hope you gained some good and useful insights. It was a pleasure talking to you."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "In case you have any queries, please call 011-49794444 or you could also send a mail to info@admizzionzcampuz.com"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Wish you good luck for the future. Have a wonderful day. Bye!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

@@ -1,0 +1,9 @@
+{
+  "id": "259fa6bd-a6c2-4d61-b43e-65dbbd24abee",
+  "name": "student_username",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

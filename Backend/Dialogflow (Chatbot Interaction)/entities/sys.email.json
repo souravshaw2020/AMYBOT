@@ -1,0 +1,9 @@
+{
+  "id": "4418b45d-af66-4d1f-80e6-4fbb46125fe4",
+  "name": "sys.email",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,306 @@
+[
+  {
+    "id": "b1418f93-6270-4e02-af6b-bbc18ea2a2e2",
+    "data": [
+      {
+        "text": "CA",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "036bdda0-0345-4792-bf11-f8d4c5494406",
+    "data": [
+      {
+        "text": "she is a ",
+        "userDefined": false
+      },
+      {
+        "text": "chartered accountant",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae935eb8-1d08-40a7-b412-c639248cd058",
+    "data": [
+      {
+        "text": "she does ",
+        "userDefined": false
+      },
+      {
+        "text": "many things",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f651862-12b0-4302-8ecb-4ad075408c15",
+    "data": [
+      {
+        "text": "my mothers occupation is ",
+        "userDefined": false
+      },
+      {
+        "text": "service",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88aa5b19-0a13-4305-8c46-f86f938e6808",
+    "data": [
+      {
+        "text": "goverment job",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5fff2506-5d6b-4d31-9eef-10e543b47ee8",
+    "data": [
+      {
+        "text": "goverment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da78e44f-23fb-497d-94a1-6be74864c5f1",
+    "data": [
+      {
+        "text": "she is ",
+        "userDefined": false
+      },
+      {
+        "text": "goverment servant",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f83bba26-d941-4ab0-acdb-389a40cc01e0",
+    "data": [
+      {
+        "text": "she is an ",
+        "userDefined": false
+      },
+      {
+        "text": "entrepreneur",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4843e84b-3e57-41a5-93f8-6b175fcb6161",
+    "data": [
+      {
+        "text": "she is a ",
+        "userDefined": false
+      },
+      {
+        "text": "doctor",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06814698-f2d4-4e3d-87f6-2406c2f0b119",
+    "data": [
+      {
+        "text": "she is a ",
+        "userDefined": false
+      },
+      {
+        "text": "housewife",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71b4ddbb-9871-430c-9de9-66a7a780dc85",
+    "data": [
+      {
+        "text": "my mother is a ",
+        "userDefined": false
+      },
+      {
+        "text": "housewife",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "abaf0225-7601-48e1-90a7-8bcf9fcd1ecf",
+    "data": [
+      {
+        "text": "my mother is ",
+        "userDefined": false
+      },
+      {
+        "text": "housewife",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33699bd3-8f41-43c9-a1b4-9721b3e3e23a",
+    "data": [
+      {
+        "text": "housewife",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c02f5d78-1187-4e5a-820b-152d40af12a0",
+    "data": [
+      {
+        "text": "professor",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3b04913-d90b-4292-af18-2d9998e81f79",
+    "data": [
+      {
+        "text": "businesswoman",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2dfa5d0b-03ab-435e-b0a3-dfea26979325",
+    "data": [
+      {
+        "text": "banker",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a703d8ba-b617-4a17-af89-055af37a09d0",
+    "data": [
+      {
+        "text": "teacher",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a44fcbe4-ad13-4d36-9f3c-e71a17a22163",
+    "data": [
+      {
+        "text": "service",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

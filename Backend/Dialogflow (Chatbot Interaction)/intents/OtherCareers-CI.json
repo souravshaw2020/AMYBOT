@@ -1,0 +1,59 @@
+{
+  "id": "9422a521-a718-46b5-b90b-02b872400948",
+  "parentId": "4b9c658f-0fe7-49d6-894b-051ce5bd18ff",
+  "rootParentId": "71df94ff-f0a7-4e16-be10-ac455bfb6ae6",
+  "name": "OtherCareers-CI",
+  "auto": true,
+  "contexts": [
+    "Careers-Why-CI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SubjectsFav-CI.SubjectsFav-CI-fallback.SubjectsFav-Why-CI-custom.Subjects-NonFav-CI-fallback.Subjects-NonFav-Why-CI-custom.Careers-CI-fallback.Careers-Why-CI-custom",
+      "affectedContexts": [
+        {
+          "name": "OtherCareers-CI-followup",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f3f53dad-3e79-4fb7-af13-2a2bffd32937",
+          "name": "future_other_careers",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$future_other_careers",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "And why are you considering this as your option?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

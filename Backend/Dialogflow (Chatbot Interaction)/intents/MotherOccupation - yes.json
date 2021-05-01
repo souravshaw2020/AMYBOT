@@ -1,0 +1,60 @@
+{
+  "id": "6a12de06-4764-4c28-bf22-ec6c623d2814",
+  "parentId": "474f27bf-fd24-4708-bd62-1b2cd998ad5d",
+  "rootParentId": "577c7160-3318-4a5c-9c5f-0d5d1f1a2b24",
+  "name": "MotherOccupation - yes",
+  "auto": true,
+  "contexts": [
+    "FatherOccupation-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "StudentMarks-MI.StudentMarks-MI-custom.Family-custom.FatherOccupation-custom",
+      "affectedContexts": [
+        {
+          "name": "MotherOccupation-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "75a196cd-af1c-4724-9cbf-23bb5368a8c2",
+          "name": "any",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$any",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Are you also fond of sports, #name-MI.student_name?",
+            "Do you like sports, #name-MI.student_name?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

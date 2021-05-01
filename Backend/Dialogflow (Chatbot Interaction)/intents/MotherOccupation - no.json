@@ -1,0 +1,36 @@
+{
+  "id": "4ca8fa40-a4f9-4892-bfef-c27e3496805f",
+  "parentId": "6a12de06-4764-4c28-bf22-ec6c623d2814",
+  "rootParentId": "577c7160-3318-4a5c-9c5f-0d5d1f1a2b24",
+  "name": "MotherOccupation - no",
+  "auto": true,
+  "contexts": [
+    "MotherOccupation-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "StudentMarks-MI.StudentMarks-MI-custom.Family-custom.FatherOccupation-custom.MotherOccupation-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

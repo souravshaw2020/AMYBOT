@@ -1,0 +1,59 @@
+{
+  "id": "b23894c5-4578-4374-9c4b-bc08825bfcaa",
+  "parentId": "7ecd5807-e56c-47a7-b192-f578b94d0ef1",
+  "rootParentId": "4e79171f-327a-4c5e-90ae-4c23c38e05fa",
+  "name": "Subjects-NonFav-MI",
+  "auto": true,
+  "contexts": [
+    "SubjectsFav-Why-MISubjects-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Hobbies-MIHobbies.Hobbies-MIHobbies-custom.SubjectsFav-MI-fallback.SubjectsFav-Why-MISubjects-custom",
+      "affectedContexts": [
+        {
+          "name": "Subjects-NonFav-MI-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "381c1272-ab73-4189-905a-2671d7350675",
+          "name": "subjects",
+          "required": false,
+          "dataType": "@subjects-MI",
+          "value": "$subjects",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Why don\u0027t you like these subjects?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

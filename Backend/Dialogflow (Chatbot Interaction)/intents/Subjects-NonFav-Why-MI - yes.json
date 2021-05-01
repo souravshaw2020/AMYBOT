@@ -1,0 +1,73 @@
+{
+  "id": "a7c20436-2757-46ff-afe2-22ea7c498484",
+  "parentId": "b23894c5-4578-4374-9c4b-bc08825bfcaa",
+  "rootParentId": "4e79171f-327a-4c5e-90ae-4c23c38e05fa",
+  "name": "Subjects-NonFav-Why-MI - yes",
+  "contexts": [
+    "Subjects-NonFav-MI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Hobbies-MIHobbies.Hobbies-MIHobbies-custom.SubjectsFav-MI-fallback.SubjectsFav-Why-MISubjects-custom.Subjects-NonFav-MI-fallback",
+      "affectedContexts": [
+        {
+          "name": "Subjects-NonFav-Why-MI-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great, now let’s go ahead and take a look at the test scores in your report."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "But before that, let me tell you a little about the test itself."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This test is based on the Theory of Multiple Intelligences and it profiles the eight different intelligences we possess."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Would you like to know more about them?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

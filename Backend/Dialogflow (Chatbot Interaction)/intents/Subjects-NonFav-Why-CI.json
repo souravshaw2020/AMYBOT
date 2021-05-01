@@ -1,0 +1,43 @@
+{
+  "id": "f6182b5e-9c42-4fe4-b6a6-706a6f6cf07a",
+  "parentId": "91d76e06-6f6c-4f39-9439-348508671942",
+  "rootParentId": "71df94ff-f0a7-4e16-be10-ac455bfb6ae6",
+  "name": "Subjects-NonFav-Why-CI",
+  "contexts": [
+    "Subjects-NonFav-CI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SubjectsFav-CI.SubjectsFav-CI-fallback.SubjectsFav-Why-CI-custom.Subjects-NonFav-CI-fallback",
+      "affectedContexts": [
+        {
+          "name": "Subjects-NonFav-Why-CI-followup-2",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What do you want to become in the future? Any specific career you have in mind?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

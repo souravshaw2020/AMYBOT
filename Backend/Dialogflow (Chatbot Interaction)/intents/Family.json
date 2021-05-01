@@ -1,0 +1,74 @@
+{
+  "id": "6a771fb6-71fd-4079-9fbc-5b48d6e36120",
+  "parentId": "577c7160-3318-4a5c-9c5f-0d5d1f1a2b24",
+  "rootParentId": "577c7160-3318-4a5c-9c5f-0d5d1f1a2b24",
+  "name": "Family",
+  "auto": true,
+  "contexts": [
+    "StudentMarks-MI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "StudentMarks-MI.StudentMarks-MI-custom",
+      "affectedContexts": [
+        {
+          "name": "Family-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "339feb26-12ff-4e4e-b679-2c11e8d84cfc",
+          "name": "any",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$any",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "edd176ae-4218-4d69-b4a6-951a1a5194b8",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What does your father do?",
+            "What is your father\u0027s occupation?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

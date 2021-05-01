@@ -1,0 +1,46 @@
+{
+  "id": "3b137635-e8b6-43eb-8300-7a09aae90e67",
+  "parentId": "6652e803-bcd8-4417-86bb-010bda940827",
+  "rootParentId": "0dacee3a-ebe9-4cff-949f-a1663e96b5bc",
+  "name": "ProfilingReply",
+  "auto": true,
+  "contexts": [
+    "StudentName-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-yes.DefaultWelcomeIntent-yes-custom.StudentName-yes",
+      "affectedContexts": [
+        {
+          "name": "ProfilingReply-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay, let\u0027s continue. I will need your username and password that you used to appear for the test for validation. Type in your Username please.",
+            "Cool. To validate your details and analyze your test results, I will need your username and password that you used to appear for the test. Can you type in the Username please?",
+            "Can I know the username that you used to appear for the test? I need them for validation and analyzing test results."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

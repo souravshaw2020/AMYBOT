@@ -1,0 +1,3314 @@
+[
+  {
+    "value": "Physics ",
+    "synonyms": [
+      "Physics",
+      "physics"
+    ]
+  },
+  {
+    "value": "Social Sciences",
+    "synonyms": [
+      "Social Sciences",
+      "SS",
+      "ss",
+      "social science",
+      "Socialscience",
+      "socialscience",
+      "Social Science",
+      "social sciences"
+    ]
+  },
+  {
+    "value": "Accessory Design",
+    "synonyms": [
+      "Accessory Design",
+      "Acessory Design",
+      "Accesory Design",
+      "Accessory design",
+      "design Acessory",
+      "design accessory",
+      "accessory"
+    ]
+  },
+  {
+    "value": "Accounting",
+    "synonyms": [
+      "Accounting",
+      "accounts",
+      "account",
+      "Account",
+      "Acount",
+      "acount",
+      "Accounts"
+    ]
+  },
+  {
+    "value": "Accounting \u0026 Information Systems",
+    "synonyms": [
+      "Accounting \u0026 Information Systems",
+      "Acc \u0026 info",
+      "Acc \u0026 info systems",
+      "acc and info",
+      "Accounting and information systems",
+      "Accounting and Information sys",
+      "accounts and information systems"
+    ]
+  },
+  {
+    "value": "Acting",
+    "synonyms": [
+      "Acting",
+      "actor",
+      "act",
+      "actoring",
+      "drama"
+    ]
+  },
+  {
+    "value": "Actuarial Science",
+    "synonyms": [
+      "Actuarial Science",
+      "actuarial science",
+      "Actuarial sci",
+      "actuarial sci"
+    ]
+  },
+  {
+    "value": "Advertising",
+    "synonyms": [
+      "Advertising",
+      "ad",
+      "advertisement",
+      "advertise",
+      "add",
+      "advertising"
+    ]
+  },
+  {
+    "value": "Aeronautical Engineering",
+    "synonyms": [
+      "Aeronautical Engineering",
+      "aeronautics",
+      "aeronotics",
+      "eronotics",
+      "aeronatical eng",
+      "aeronautical engg",
+      "Aeronautical engineering"
+    ]
+  },
+  {
+    "value": "Aerospace Engineering",
+    "synonyms": [
+      "Aerospace Engineering",
+      "aerospace eng",
+      "aerospace engineering",
+      "aero engineering",
+      "aero engg",
+      "aerospace engg",
+      "aerospace"
+    ]
+  },
+  {
+    "value": "Agri-Informatics",
+    "synonyms": [
+      "Agri-Informatics",
+      "agrinformatics",
+      "agri-informatics",
+      "agriculture information",
+      "agricultural information"
+    ]
+  },
+  {
+    "value": "Agriculture",
+    "synonyms": [
+      "Agriculture",
+      "agri",
+      "agriculture",
+      "agro",
+      "agricultural"
+    ]
+  },
+  {
+    "value": "Allied Health Sciences",
+    "synonyms": [
+      "Allied Health Sciences",
+      "ally health sci",
+      "ally health science",
+      "allied health",
+      "allid health science"
+    ]
+  },
+  {
+    "value": "Anaesthesia Technology",
+    "synonyms": [
+      "Anaesthesia Technology",
+      "anaesthesia tech",
+      "anaesthesia",
+      "anaesthetic technology",
+      "anesthesia technology",
+      "anesthesia tech"
+    ]
+  },
+  {
+    "value": "Analytics",
+    "synonyms": [
+      "Analytics",
+      "analytics",
+      "anal",
+      "analysis",
+      "analyse"
+    ]
+  },
+  {
+    "value": "Ancient History",
+    "synonyms": [
+      "Ancient History",
+      "ancient history",
+      "ancient hist",
+      "ancient"
+    ]
+  },
+  {
+    "value": "Animal Husbandry",
+    "synonyms": [
+      "Animal Husbandry",
+      "animal husbandry",
+      "animal husband",
+      "animal"
+    ]
+  },
+  {
+    "value": "Animation",
+    "synonyms": [
+      "Animation",
+      "animate",
+      "animation"
+    ]
+  },
+  {
+    "value": "Anthropology",
+    "synonyms": [
+      "Anthropology",
+      "anthro",
+      "anthropology"
+    ]
+  },
+  {
+    "value": "Apparel Design",
+    "synonyms": [
+      "Apparel Design",
+      "apparel",
+      "design apparel",
+      "apparel design"
+    ]
+  },
+  {
+    "value": "Apparel Production",
+    "synonyms": [
+      "Apparel Production",
+      "apparel production",
+      "aparel production",
+      "apparel prod"
+    ]
+  },
+  {
+    "value": "Applied Art",
+    "synonyms": [
+      "Applied Art",
+      "applied art",
+      "apply art",
+      "aplied art",
+      "art",
+      "applied"
+    ]
+  },
+  {
+    "value": "Applied Biotechnology",
+    "synonyms": [
+      "Applied Biotechnology",
+      "applied biotech",
+      "applied biotechnology",
+      "applied bio"
+    ]
+  },
+  {
+    "value": "Applied Civil Engineering",
+    "synonyms": [
+      "Applied Civil Engineering",
+      "applied civil",
+      "applied civil engineering",
+      "aplied civil",
+      "applied civil engg"
+    ]
+  },
+  {
+    "value": "Applied Electronics",
+    "synonyms": [
+      "Applied Electronics",
+      "applied electric",
+      "applied electronics",
+      "applied electro"
+    ]
+  },
+  {
+    "value": "Applied Geology",
+    "synonyms": [
+      "Applied Geology",
+      "applied geo",
+      "applied geology",
+      "geo",
+      "geology"
+    ]
+  },
+  {
+    "value": "Applied Geophysics",
+    "synonyms": [
+      "Applied Geophysics",
+      "applied geopgy",
+      "applied geophysics",
+      "Applied geophysics"
+    ]
+  },
+  {
+    "value": "Applied Mathematics",
+    "synonyms": [
+      "Applied Mathematics",
+      "applied mathematic",
+      "applied maths",
+      "applied math",
+      "Applied math"
+    ]
+  },
+  {
+    "value": "Applied Petroleum Engineering",
+    "synonyms": [
+      "Applied Petrol Engineering",
+      "Petrol Engineering",
+      "petrol",
+      "petroleum",
+      "petroleum engineering",
+      "Applied Petroleum Engineering"
+    ]
+  },
+  {
+    "value": "Applied Petroleum Engineering with specialization in Gas",
+    "synonyms": [
+      "Applied Petroleum Engineering with specialization in Gas",
+      "applied petroleum engineering with specialization in gas",
+      "petroleum in gas",
+      "petrol in gas",
+      "petroleum gas",
+      "gas petroleum",
+      "petroleum with specialization in gas"
+    ]
+  },
+  {
+    "value": "Applied Physical Sciences",
+    "synonyms": [
+      "Applied Physical Sciences",
+      "applied physical scienc",
+      "applied physical sciences",
+      "applied physical",
+      "physical sci",
+      "physical sciences"
+    ]
+  },
+  {
+    "value": "Applied Physics",
+    "synonyms": [
+      "Applied Physics",
+      "applied physics",
+      "applied phy",
+      "applied physic"
+    ]
+  },
+  {
+    "value": "Applied Psycology",
+    "synonyms": [
+      "Applied Psycology",
+      "applied physi",
+      "applied psycho",
+      "applied sycho",
+      "sychi",
+      "sycho",
+      "psycho"
+    ]
+  },
+  {
+    "value": "Applied Statistics",
+    "synonyms": [
+      "Applied Statistics",
+      "applied stats",
+      "applied statistics"
+    ]
+  },
+  {
+    "value": "Arabic",
+    "synonyms": [
+      "Arabic",
+      "arabic",
+      "arab"
+    ]
+  },
+  {
+    "value": "Archaeology",
+    "synonyms": [
+      "Archaeology",
+      "archeology",
+      "archaeology",
+      "archaeo",
+      "archeo"
+    ]
+  },
+  {
+    "value": "Architecture",
+    "synonyms": [
+      "Architecture",
+      "architecture",
+      "archi",
+      "arch",
+      "architech",
+      "architect"
+    ]
+  },
+  {
+    "value": "Assamese",
+    "synonyms": [
+      "Assamese",
+      "assam",
+      "assamese"
+    ]
+  },
+  {
+    "value": "Astronomy",
+    "synonyms": [
+      "Astronomy",
+      "astro",
+      "astronomy"
+    ]
+  },
+  {
+    "value": "Astrophysics",
+    "synonyms": [
+      "Astrophysics",
+      "astrophy",
+      "astrophysics"
+    ]
+  },
+  {
+    "value": "Audio Visual Production",
+    "synonyms": [
+      "Audio Visual Production",
+      "audio visual",
+      "audio visuals",
+      "visual prod",
+      "audio visual production"
+    ]
+  },
+  {
+    "value": "Automobile Engineering",
+    "synonyms": [
+      "Automobile Engineering",
+      "automobile",
+      "auto engineering",
+      "auto engg",
+      "automobile engg"
+    ]
+  },
+  {
+    "value": "Automotive Design",
+    "synonyms": [
+      "Automotive Design",
+      "auto design",
+      "automotive design"
+    ]
+  },
+  {
+    "value": "Aviation",
+    "synonyms": [
+      "Aviation",
+      "aviate",
+      "aviation"
+    ]
+  },
+  {
+    "value": "Avionics",
+    "synonyms": [
+      "Avionics",
+      "avionics",
+      "avionic"
+    ]
+  },
+  {
+    "value": "Ayurveda",
+    "synonyms": [
+      "Ayurveda",
+      "ayurveda",
+      "ayur",
+      "veda"
+    ]
+  },
+  {
+    "value": "Banking",
+    "synonyms": [
+      "Banking",
+      "bank",
+      "banking"
+    ]
+  },
+  {
+    "value": "Bengali",
+    "synonyms": [
+      "Bengali",
+      "bengali",
+      "bangla",
+      "bangali",
+      "bong"
+    ]
+  },
+  {
+    "value": "Bharatnatyam",
+    "synonyms": [
+      "Bharatnatyam",
+      "bharatnatyam"
+    ]
+  },
+  {
+    "value": "Big Data",
+    "synonyms": [
+      "Big Data",
+      "big data",
+      "data"
+    ]
+  },
+  {
+    "value": "Biochemical Engineering",
+    "synonyms": [
+      "Biochemical Engineering",
+      "biochemical",
+      "biochemical engg",
+      "bio engineering",
+      "bio engg"
+    ]
+  },
+  {
+    "value": "Biochemistry",
+    "synonyms": [
+      "Biochemistry",
+      "biochemistry",
+      "biochem",
+      "biochemistr",
+      "biochemist"
+    ]
+  },
+  {
+    "value": "Bioelectronics",
+    "synonyms": [
+      "Bioelectronics",
+      "bioelectronics",
+      "bioelectric",
+      "bioelectro"
+    ]
+  },
+  {
+    "value": "Bioinformatics",
+    "synonyms": [
+      "Bioinformatics",
+      "bioinformatics",
+      "bioinfo"
+    ]
+  },
+  {
+    "value": "Biology",
+    "synonyms": [
+      "Biology",
+      "bio",
+      "biology"
+    ]
+  },
+  {
+    "value": "Biomedical Engineering",
+    "synonyms": [
+      "Biomedical Engineering",
+      "biomedical",
+      "biomedic",
+      "biomedical engg",
+      "biomedical engineering"
+    ]
+  },
+  {
+    "value": "Biophysics",
+    "synonyms": [
+      "Biophysics",
+      "biophysics",
+      "biophy"
+    ]
+  },
+  {
+    "value": "Biosciences",
+    "synonyms": [
+      "Biosciences",
+      "bioscience",
+      "biosciences",
+      "biosci"
+    ]
+  },
+  {
+    "value": "Biotechnology",
+    "synonyms": [
+      "Biotechnology",
+      "biotech",
+      "biotechnology"
+    ]
+  },
+  {
+    "value": "Bodo",
+    "synonyms": [
+      "Bodo",
+      "bodo"
+    ]
+  },
+  {
+    "value": "botany",
+    "synonyms": [
+      "botany",
+      "boatny",
+      "Botany"
+    ]
+  },
+  {
+    "value": "Brand Management",
+    "synonyms": [
+      "Brand Management",
+      "branding",
+      "brand",
+      "brand mgt",
+      "brand management",
+      "brand manage"
+    ]
+  },
+  {
+    "value": "Business Analytics \u0026 Optimisation",
+    "synonyms": [
+      "Business Analytics \u0026 Optimisation",
+      "business analytics and optimisation",
+      "business analytics and optimization",
+      "business analytics",
+      "business analayisis",
+      "business analysis",
+      "business analytics \u0026 optimization"
+    ]
+  },
+  {
+    "value": "Business Economics",
+    "synonyms": [
+      "Business Economics",
+      "business eco",
+      "business economics",
+      "business economy"
+    ]
+  },
+  {
+    "value": "Cardiac Laboratory Technology",
+    "synonyms": [
+      "Cardiac Laboratory Technology",
+      "cardiac lab tech",
+      "cardiac laboratory technology",
+      "cardiac lab technology"
+    ]
+  },
+  {
+    "value": "Cardiac Perfusion Technology",
+    "synonyms": [
+      "Cardiac Perfusion Technology",
+      "cardiac perfusion techology",
+      "cardiac perfusion tech"
+    ]
+  },
+  {
+    "value": "Cardiovascular Technology",
+    "synonyms": [
+      "Cardiovascular Technology",
+      "cardiovascular technology",
+      "cardiovascular tech",
+      "cardio tech"
+    ]
+  },
+  {
+    "value": "Ceramic design",
+    "synonyms": [
+      "Ceramic design",
+      "Ceramic Design",
+      "ceramics",
+      "ceramics design",
+      "ceramic design"
+    ]
+  },
+  {
+    "value": "Ceramic Engineering",
+    "synonyms": [
+      "Ceramic Engineering",
+      "ceramic engg",
+      "ceramic engineering",
+      "ceramics engg"
+    ]
+  },
+  {
+    "value": "Chartered Accountancy",
+    "synonyms": [
+      "Chartered Accountancy",
+      "chartered acc",
+      "chartered accounts",
+      "CA",
+      "ca",
+      "charter accountant",
+      "chartered accountant",
+      "chartered accountancy",
+      "chartered account"
+    ]
+  },
+  {
+    "value": "Chemical Engineering",
+    "synonyms": [
+      "Chemical Engineering",
+      "chemical engineering",
+      "chemical engg",
+      "chemical"
+    ]
+  },
+  {
+    "value": "Chemical Science \u0026 Technology",
+    "synonyms": [
+      "Chemical Science \u0026 Technology",
+      "Chemical Science and Technology",
+      "Chemical Science and technology",
+      "chemical sci and technology",
+      "chemical sci and tech"
+    ]
+  },
+  {
+    "value": "Chemistry",
+    "synonyms": [
+      "Chemistry",
+      "chemist",
+      "chemistry",
+      "chem"
+    ]
+  },
+  {
+    "value": "Chinese",
+    "synonyms": [
+      "Chinese",
+      "china",
+      "chinese",
+      "chini"
+    ]
+  },
+  {
+    "value": "Cinemaphotography",
+    "synonyms": [
+      "Cinemaphotography",
+      "cinema",
+      "cinemaphoto",
+      "cinemaphotographer"
+    ]
+  },
+  {
+    "value": "Civil Engineering",
+    "synonyms": [
+      "Civil Engineering",
+      "civil",
+      "civil engineering",
+      "civil engg"
+    ]
+  },
+  {
+    "value": "Civics",
+    "synonyms": [
+      "Civics",
+      "civics",
+      "civic"
+    ]
+  },
+  {
+    "value": "Clinical Nutrition",
+    "synonyms": [
+      "Clinical Nutrition",
+      "clinics",
+      "clinical nutrition"
+    ]
+  },
+  {
+    "value": "Clinical Psychology",
+    "synonyms": [
+      "Clinical Psychology",
+      "Clinical psychology",
+      "clinical physchology",
+      "clinical psy",
+      "clinical pyscho"
+    ]
+  },
+  {
+    "value": "Cloud Computing",
+    "synonyms": [
+      "Cloud Computing",
+      "cloud computing",
+      "cloud",
+      "cloud comp"
+    ]
+  },
+  {
+    "value": "Cognitive Psychology",
+    "synonyms": [
+      "Cognitive Psychology",
+      "cognitive psychology",
+      "cognitive",
+      "cognitive psycho"
+    ]
+  },
+  {
+    "value": "Commerce",
+    "synonyms": [
+      "Commerce",
+      "comm",
+      "commerce"
+    ]
+  },
+  {
+    "value": "Commercial Pilot",
+    "synonyms": [
+      "Commercial Pilot",
+      "comm pilot",
+      "pilot",
+      "commercial pilot"
+    ]
+  },
+  {
+    "value": "Communication Design",
+    "synonyms": [
+      "Communication Design",
+      "comm design",
+      "communication design"
+    ]
+  },
+  {
+    "value": "Communicative English",
+    "synonyms": [
+      "Communicative English",
+      "communicative english",
+      "communicative eng",
+      "communication english",
+      "communication eng"
+    ]
+  },
+  {
+    "value": "Company Secretaryship",
+    "synonyms": [
+      "Company Secretaryship",
+      "company scretaryship",
+      "com secretary"
+    ]
+  },
+  {
+    "value": "Company Linguistics",
+    "synonyms": [
+      "Company Linguistics",
+      "company linguistics",
+      "company linguistic"
+    ]
+  },
+  {
+    "value": "Computational Statistics",
+    "synonyms": [
+      "Computational Statistics",
+      "computational statistics",
+      "computational stats",
+      "computational statistic"
+    ]
+  },
+  {
+    "value": "Computer Applications",
+    "synonyms": [
+      "Computer Applications",
+      "computer applications",
+      "computer application",
+      "computer app",
+      "comp applicaton",
+      "comp app"
+    ]
+  },
+  {
+    "value": "Computer Engineering",
+    "synonyms": [
+      "Computer Engineering",
+      "computer engg",
+      "cse",
+      "computer science and engineering"
+    ]
+  },
+  {
+    "value": "Computer Integrated Manufacturing",
+    "synonyms": [
+      "Computer Integrated Manufacturing",
+      "computer integrated manufacturing",
+      "computer integrated manufacture"
+    ]
+  },
+  {
+    "value": "Computer Maintenance",
+    "synonyms": [
+      "Computer Maintenance",
+      "computer maintenance",
+      "computer maintain",
+      "computer maintainance"
+    ]
+  },
+  {
+    "value": "Computer Science",
+    "synonyms": [
+      "Computer Science",
+      "cse",
+      "computer science",
+      "comp scie"
+    ]
+  },
+  {
+    "value": "Construction Engineering",
+    "synonyms": [
+      "Construction Engineering",
+      "construction",
+      "construction engg"
+    ]
+  },
+  {
+    "value": "Construction \u0026 Management",
+    "synonyms": [
+      "Construction \u0026 Management",
+      "construction and management",
+      "construction management",
+      "constr management",
+      "constr mgt"
+    ]
+  },
+  {
+    "value": "Control Engineering",
+    "synonyms": [
+      "Control Engineering",
+      "control engg",
+      "control engineering",
+      "control"
+    ]
+  },
+  {
+    "value": "Cost \u0026 Works Accounting",
+    "synonyms": [
+      "Cost \u0026 Works Accounting",
+      "cost and works accounting",
+      "cost and worrk accounts",
+      "cost and work accounts",
+      "cost work accounting"
+    ]
+  },
+  {
+    "value": "Criminology",
+    "synonyms": [
+      "Criminology",
+      "ciminal",
+      "criminology",
+      "crimanalogy"
+    ]
+  },
+  {
+    "value": "Culinary Arts",
+    "synonyms": [
+      "Culinary Arts",
+      "culinary art"
+    ]
+  },
+  {
+    "value": "Cyber Law",
+    "synonyms": [
+      "Cyber Law",
+      "cyber laws",
+      "cyber law"
+    ]
+  },
+  {
+    "value": "Cyber Security",
+    "synonyms": [
+      "Cyber Security",
+      "cyber sec",
+      "cyber security"
+    ]
+  },
+  {
+    "value": "Dairy Technology",
+    "synonyms": [
+      "Dairy Technology",
+      "dairy",
+      "dairy tech"
+    ]
+  },
+  {
+    "value": "Data Analytics",
+    "synonyms": [
+      "Data Analytics",
+      "data anlysis",
+      "data analysis"
+    ]
+  },
+  {
+    "value": "Data Science",
+    "synonyms": [
+      "Data Science",
+      "data science",
+      "ds",
+      "data sci"
+    ]
+  },
+  {
+    "value": "Defence",
+    "synonyms": [
+      "Defence",
+      "defence",
+      "army",
+      "defend"
+    ]
+  },
+  {
+    "value": "Dentistry",
+    "synonyms": [
+      "Desntistry",
+      "dentistry",
+      "dentist",
+      "Dentistry"
+    ]
+  },
+  {
+    "value": "Development Studies",
+    "synonyms": [
+      "Development Studies",
+      "development studies",
+      "dev study",
+      "develop study",
+      "develop studies"
+    ]
+  },
+  {
+    "value": "Dialysis Technology",
+    "synonyms": [
+      "Dialysis Technology",
+      "dialysis",
+      "dialysis technology",
+      "dialysis tech"
+    ]
+  },
+  {
+    "value": "Dialysis Therapy",
+    "synonyms": [
+      "Dialysis Therapy",
+      "dialysis therapy"
+    ]
+  },
+  {
+    "value": "Dietetics \u0026 Nutrition",
+    "synonyms": [
+      "Dietetics \u0026 Nutrition",
+      "diet nutrition",
+      "dietetics",
+      "dietetics and nutrition"
+    ]
+  },
+  {
+    "value": "Digial Art",
+    "synonyms": [
+      "Digial Art",
+      "digital art",
+      "digital arts"
+    ]
+  },
+  {
+    "value": "Digital Marketing",
+    "synonyms": [
+      "Digital Marketing",
+      "digial marketing",
+      "digital marketting"
+    ]
+  },
+  {
+    "value": "Dogri",
+    "synonyms": [
+      "Dogri",
+      "dogri"
+    ]
+  },
+  {
+    "value": "Film \u0026 Serial Direction",
+    "synonyms": [
+      "Film \u0026 Serial Direction",
+      "Direction",
+      "director",
+      "Film director",
+      "serial director",
+      "serial"
+    ]
+  },
+  {
+    "value": "E-Banking",
+    "synonyms": [
+      "E-Banking",
+      "ebanking",
+      "ebank",
+      "e-banking",
+      "e-bank"
+    ]
+  },
+  {
+    "value": "E-Commerce",
+    "synonyms": [
+      "E-Commerce",
+      "e-comm",
+      "e-com",
+      "ecom",
+      "ecommere",
+      "ecommerce"
+    ]
+  },
+  {
+    "value": "Earth Sciences",
+    "synonyms": [
+      "Earth Sciences",
+      "Earth",
+      "earth science"
+    ]
+  },
+  {
+    "value": "Echocardiography Technology",
+    "synonyms": [
+      "Echocardiography Technology",
+      "echo tech",
+      "echo technology",
+      "echocardio tech",
+      "echocardiography"
+    ]
+  },
+  {
+    "value": "Econometrics",
+    "synonyms": [
+      "Econometrics",
+      "econometric"
+    ]
+  },
+  {
+    "value": "Economics",
+    "synonyms": [
+      "Economics",
+      "eco",
+      "economic"
+    ]
+  },
+  {
+    "value": "Film,Serials and Music Editing",
+    "synonyms": [
+      "Film,Serials and Music Editing",
+      "film editing",
+      "serials editing",
+      "serial editing",
+      "music editing",
+      "music edit",
+      "serial edit",
+      "video editing",
+      "film,serial editing",
+      "film,serial \u0026 music editing"
+    ]
+  },
+  {
+    "value": "Educational Technology",
+    "synonyms": [
+      "Educational Technology",
+      "education",
+      "education tech",
+      "edu tech",
+      "edu technology",
+      "eductation tech"
+    ]
+  },
+  {
+    "value": "Electrical Engineering",
+    "synonyms": [
+      "Electrical Engineering",
+      "electric engineering",
+      "electric eng",
+      "electrical engineering",
+      "electrical eng"
+    ]
+  },
+  {
+    "value": "Electromechanical Engineering",
+    "synonyms": [
+      "Electromechanical Engineering",
+      "electromechanical",
+      "electromechanics",
+      "electromechanical engineering",
+      "electromechanical engg"
+    ]
+  },
+  {
+    "value": "Electronic Systems Engineering",
+    "synonyms": [
+      "Electronic Systems Engineering",
+      "electronic system engineering",
+      "electronic systems engg",
+      "electronic sys engineering"
+    ]
+  },
+  {
+    "value": "Electronics Engineering",
+    "synonyms": [
+      "Electronics Engineering",
+      "electronics",
+      "electronics eng",
+      "electronics engg"
+    ]
+  },
+  {
+    "value": "Electronics and Media Technology",
+    "synonyms": [
+      "Electronics and Media Technology",
+      "electronics and media",
+      "electronics and media tech",
+      "electronics \u0026 media technology"
+    ]
+  },
+  {
+    "value": "Embedded Systems",
+    "synonyms": [
+      "Embedded Systems",
+      "embedded system",
+      "embeded system",
+      "embedded systems"
+    ]
+  },
+  {
+    "value": "Emergency Medical Technology",
+    "synonyms": [
+      "Emergency Medical Technology",
+      "emergency medical tech",
+      "emergency medical"
+    ]
+  },
+  {
+    "value": "Engineering Chemistry",
+    "synonyms": [
+      "Engineering Chemistry",
+      "engineering chem",
+      "engineering chemistry",
+      "engg chemistry"
+    ]
+  },
+  {
+    "value": "Engineering Design",
+    "synonyms": [
+      "Engineering Design",
+      "enginerring design",
+      "engg design",
+      "eng design"
+    ]
+  },
+  {
+    "value": "Engineering Mathematics",
+    "synonyms": [
+      "Engineering Mathematics",
+      "engineering maths",
+      "engineering math",
+      "engg maths",
+      "engg mathematics"
+    ]
+  },
+  {
+    "value": "Engineering Physics",
+    "synonyms": [
+      "Engineering Physics",
+      "engineering physics",
+      "engineering physic",
+      "eng physics",
+      "engg physics"
+    ]
+  },
+  {
+    "value": "English",
+    "synonyms": [
+      "English",
+      "english",
+      "eng"
+    ]
+  },
+  {
+    "value": "Entrepreneurship",
+    "synonyms": [
+      "Entrepreneurship",
+      "entrepreneur",
+      "entre",
+      "entreprenure",
+      "entrapreneurship",
+      "entrepreniorship",
+      "entroprenorship",
+      "ontrepreneurship",
+      "ontropreneur"
+    ]
+  },
+  {
+    "value": "Environmental Engineering",
+    "synonyms": [
+      "Environmental Engineering",
+      "environment engineering",
+      "environmental",
+      "environmental engg"
+    ]
+  },
+  {
+    "value": "Environmental Science",
+    "synonyms": [
+      "Environmental Science",
+      "evs",
+      "environment science",
+      "environment study"
+    ]
+  },
+  {
+    "value": "Exercise and Sports Science",
+    "synonyms": [
+      "Exercise and Sports Science",
+      "exercise and sports",
+      "exercise science",
+      "sports and exercise",
+      "sports and exercise science"
+    ]
+  },
+  {
+    "value": "Exhibition Design",
+    "synonyms": [
+      "Exhibition Design",
+      "exhibition design",
+      "exibition design",
+      "exhibition",
+      "exibition"
+    ]
+  },
+  {
+    "value": "Family Business Management",
+    "synonyms": [
+      "Family Business Management",
+      "family business",
+      "fam business",
+      "fam business mgt",
+      "family business mgt"
+    ]
+  },
+  {
+    "value": "Fashion Communication",
+    "synonyms": [
+      "Fashion Communication",
+      "fashion comm"
+    ]
+  },
+  {
+    "value": "Fashion Design",
+    "synonyms": [
+      "Fashion design",
+      "fashion design",
+      "Fashion Design",
+      "fashion",
+      "design fashion"
+    ]
+  },
+  {
+    "value": "Fashion Styling",
+    "synonyms": [
+      "Fashion styling",
+      "Fashion style",
+      "styling",
+      "fashion style"
+    ]
+  },
+  {
+    "value": "Fashion Technology",
+    "synonyms": [
+      "Fashion Technology",
+      "fashion tech",
+      "fashion technology"
+    ]
+  },
+  {
+    "value": "Film \u0026 Television Production",
+    "synonyms": [
+      "Film \u0026 Television Production",
+      "film and tv production",
+      "film tv production",
+      "film and tv prod"
+    ]
+  },
+  {
+    "value": "Film \u0026 TV Communication",
+    "synonyms": [
+      "Film \u0026 TV Communication",
+      "film and tv communication",
+      "film and tv comm",
+      "film tv communication"
+    ]
+  },
+  {
+    "value": "Finance",
+    "synonyms": [
+      "Finance",
+      "finance"
+    ]
+  },
+  {
+    "value": "Financial Markets",
+    "synonyms": [
+      "Financial Markets",
+      "finance markets",
+      "finance market",
+      "financial market"
+    ]
+  },
+  {
+    "value": "Financial Analysis",
+    "synonyms": [
+      "Financial Analysis",
+      "financial analysis",
+      "financial analyse",
+      "finance analysis"
+    ]
+  },
+  {
+    "value": "Financial Services",
+    "synonyms": [
+      "Financial Services",
+      "finance service",
+      "financial service",
+      "finance services"
+    ]
+  },
+  {
+    "value": "Fine Arts",
+    "synonyms": [
+      "Fine Arts",
+      "fine art",
+      "fine arts"
+    ]
+  },
+  {
+    "value": "Food Processing",
+    "synonyms": [
+      "Food Processing",
+      "food process",
+      "food processing",
+      "food processes"
+    ]
+  },
+  {
+    "value": "Food Science",
+    "synonyms": [
+      "Food Science",
+      "food sci",
+      "food science"
+    ]
+  },
+  {
+    "value": "Food Technology",
+    "synonyms": [
+      "Food Technology",
+      "food tech"
+    ]
+  },
+  {
+    "value": "Foreign Trade",
+    "synonyms": [
+      "Foreign Trade",
+      "foreign",
+      "foreign trading"
+    ]
+  },
+  {
+    "value": "Forensic Science",
+    "synonyms": [
+      "Forensic Science",
+      "forensic",
+      "forensic sci"
+    ]
+  },
+  {
+    "value": "Forestry",
+    "synonyms": [
+      "Forestry",
+      "forest",
+      "forestry"
+    ]
+  },
+  {
+    "value": "French",
+    "synonyms": [
+      "French",
+      "french"
+    ]
+  },
+  {
+    "value": "Furniture Design",
+    "synonyms": [
+      "Furniture Design",
+      "furniture design",
+      "furn design",
+      "furniture"
+    ]
+  },
+  {
+    "value": "Game Design",
+    "synonyms": [
+      "Game Design",
+      "game",
+      "gaming",
+      "game design"
+    ]
+  },
+  {
+    "value": "Gas Production",
+    "synonyms": [
+      "Gas Production",
+      "gas proud",
+      "gas prod",
+      "gas production"
+    ]
+  },
+  {
+    "value": "Gender Studies",
+    "synonyms": [
+      "Gender Studies",
+      "gender study",
+      "gender studies"
+    ]
+  },
+  {
+    "value": "Genetic Engineering",
+    "synonyms": [
+      "Genetic Engineering",
+      "genetics",
+      "genetic",
+      "genetic engg",
+      "genetic eng"
+    ]
+  },
+  {
+    "value": "Geo-Informatics",
+    "synonyms": [
+      "Geo-Informatics",
+      "geoinformatics",
+      "geo informatics",
+      "geo informatic"
+    ]
+  },
+  {
+    "value": "Geographic Information System",
+    "synonyms": [
+      "Geographic Information System",
+      "geographic info system",
+      "geographic information systems"
+    ]
+  },
+  {
+    "value": "Geography",
+    "synonyms": [
+      "Geography",
+      "geo",
+      "geography"
+    ]
+  },
+  {
+    "value": "Geology",
+    "synonyms": [
+      "Geology",
+      "geology"
+    ]
+  },
+  {
+    "value": "Geophysics",
+    "synonyms": [
+      "Geophysics",
+      "geophysics"
+    ]
+  },
+  {
+    "value": "Geoscience",
+    "synonyms": [
+      "Geoscience",
+      "geoscienc",
+      "geoscience"
+    ]
+  },
+  {
+    "value": "German",
+    "synonyms": [
+      "German",
+      "german"
+    ]
+  },
+  {
+    "value": "Glass Engineering",
+    "synonyms": [
+      "Glass Engineering",
+      "glass",
+      "glass engineering"
+    ]
+  },
+  {
+    "value": "Global Affairs",
+    "synonyms": [
+      "Global Affairs",
+      "global affair",
+      "global affairs"
+    ]
+  },
+  {
+    "value": "Graphic Design",
+    "synonyms": [
+      "Graphic Design",
+      "graphic",
+      "graphic design"
+    ]
+  },
+  {
+    "value": "Gujarati",
+    "synonyms": [
+      "Gujarati",
+      "gujrat",
+      "gujrati"
+    ]
+  },
+  {
+    "value": "Healthcare Informatics",
+    "synonyms": [
+      "Healthcare Informatics",
+      "healthcare informatic"
+    ]
+  },
+  {
+    "value": "Healthcare Management",
+    "synonyms": [
+      "Healthcare Management",
+      "health management",
+      "healthcare management"
+    ]
+  },
+  {
+    "value": "Hindi",
+    "synonyms": [
+      "Hindi",
+      "hindi",
+      "hind"
+    ]
+  },
+  {
+    "value": "Hindi Patrakarita",
+    "synonyms": [
+      "Hindi Patrakarita",
+      "patrakarita"
+    ]
+  },
+  {
+    "value": "History",
+    "synonyms": [
+      "History",
+      "hist",
+      "history"
+    ]
+  },
+  {
+    "value": "History Of Art",
+    "synonyms": [
+      "History Of Art",
+      "history of art",
+      "history arts",
+      "history art",
+      "art history"
+    ]
+  },
+  {
+    "value": "Home Science",
+    "synonyms": [
+      "Home Science",
+      "home science",
+      "home sci"
+    ]
+  },
+  {
+    "value": "Horticulture",
+    "synonyms": [
+      "Horticulture",
+      "horticulture"
+    ]
+  },
+  {
+    "value": "Hospital Management/Administration",
+    "synonyms": [
+      "Hospital Management",
+      "hospital management",
+      "hospital mgt",
+      "hospital management/Administration",
+      "hospital administration/management",
+      "hospital administration",
+      "hospital management/administartion"
+    ]
+  },
+  {
+    "value": "Hospitality",
+    "synonyms": [
+      "Hospitality",
+      "hospitality management"
+    ]
+  },
+  {
+    "value": "Hotel Management",
+    "synonyms": [
+      "Hotel Management",
+      "hotel manage",
+      "hotel management"
+    ]
+  },
+  {
+    "value": "Human Centred Design",
+    "synonyms": [
+      "Human Centred Design",
+      "human centre",
+      "human centre design"
+    ]
+  },
+  {
+    "value": "Human Resource Management",
+    "synonyms": [
+      "Human Resource Management",
+      "HR",
+      "HR management",
+      "human resource"
+    ]
+  },
+  {
+    "value": "Humanities",
+    "synonyms": [
+      "Humanities",
+      "humanities",
+      "humanity"
+    ]
+  },
+  {
+    "value": "Indian Classical Music - Vocal",
+    "synonyms": [
+      "Indian Classical Music - Vocal",
+      "indian classic music",
+      "indian classic music vocal",
+      "vocal music"
+    ]
+  },
+  {
+    "value": "Indian Classical Music - Instrumental",
+    "synonyms": [
+      "Indian Classical Music - Instrumental",
+      "indian classical music instrumenta",
+      "indian classical music instrumental",
+      "instrumental music",
+      "instrumental"
+    ]
+  },
+  {
+    "value": "Indian Classical Dance",
+    "synonyms": [
+      "indian classical design",
+      "classical dance",
+      "Indian Classical Dance",
+      "c",
+      "dance classical",
+      "indian dance"
+    ]
+  },
+  {
+    "value": "Industrial Engineering",
+    "synonyms": [
+      "Industrial Engineering",
+      "industry engineering",
+      "industrial engg",
+      "indutrial eng"
+    ]
+  },
+  {
+    "value": "Industrial and Systems Engineering",
+    "synonyms": [
+      "Industrial and Systems Engineering",
+      "industrial system engineering",
+      "industry systems",
+      "industry and system engineering"
+    ]
+  },
+  {
+    "value": "Industrial Biotechnology",
+    "synonyms": [
+      "Industrial Biotechnology",
+      "indutrial biotechnology",
+      "industrial biotechnology",
+      "industrial biotech",
+      "industry biotecj",
+      "industry biotech"
+    ]
+  },
+  {
+    "value": "Industrial Chemistry",
+    "synonyms": [
+      "Industrial Chemistry",
+      "industry chemistry",
+      "industry chemical",
+      "industrial chemical",
+      "industrial chem"
+    ]
+  },
+  {
+    "value": "Industrial Design",
+    "synonyms": [
+      "Industrial Design",
+      "industry design"
+    ]
+  },
+  {
+    "value": "Industrial Relations",
+    "synonyms": [
+      "Industrial Relations",
+      "industry relations",
+      "industry relation",
+      "industrial relation"
+    ]
+  },
+  {
+    "value": "Industrial Waste Management",
+    "synonyms": [
+      "Industrial Waste Management",
+      "industry waste management",
+      "industry waste mgt"
+    ]
+  },
+  {
+    "value": "Information \u0026 System Management",
+    "synonyms": [
+      "Information \u0026 System Management",
+      "information system management",
+      "information and system management",
+      "information and systems management"
+    ]
+  },
+  {
+    "value": "Information Science",
+    "synonyms": [
+      "Information Science",
+      "information science",
+      "info science"
+    ]
+  },
+  {
+    "value": "Information Security",
+    "synonyms": [
+      "Information Security",
+      "info security",
+      "info sec",
+      "information sec",
+      "information security",
+      "security"
+    ]
+  },
+  {
+    "value": "Information Technology",
+    "synonyms": [
+      "Information Technology",
+      "information tech",
+      "information technology",
+      "info tech",
+      "it",
+      "IT"
+    ]
+  },
+  {
+    "value": "Infrastructure Management",
+    "synonyms": [
+      "Infrastructure Management",
+      "infrastructure",
+      "infra management",
+      "infra managemen",
+      "infrastructure management",
+      "infra"
+    ]
+  },
+  {
+    "value": "Instrumentation Engineering",
+    "synonyms": [
+      "Instrumentation Engineering",
+      "instrumentation",
+      "instrumentation engineering",
+      "instrumentation engg",
+      "instrument engg",
+      "instrument engineering"
+    ]
+  },
+  {
+    "value": "Instrumentation \u0026 Control Design",
+    "synonyms": [
+      "Instrumentation \u0026 Control Design",
+      "instrumentation and control design",
+      "instrumentation design",
+      "instrumentation control design"
+    ]
+  },
+  {
+    "value": "Insurance",
+    "synonyms": [
+      "Insurance",
+      "insurance",
+      "insure"
+    ]
+  },
+  {
+    "value": "Interior Design",
+    "synonyms": [
+      "Interior Design",
+      "interior design",
+      "interior"
+    ]
+  },
+  {
+    "value": "International Relations",
+    "synonyms": [
+      "International Relations",
+      "international relation"
+    ]
+  },
+  {
+    "value": "Internet of Things",
+    "synonyms": [
+      "Internet of Things",
+      "iot",
+      "internet of things"
+    ]
+  },
+  {
+    "value": "Investment Analysis",
+    "synonyms": [
+      "Investment Analysis",
+      "investment anlyse",
+      "investment"
+    ]
+  },
+  {
+    "value": "Investment Management",
+    "synonyms": [
+      "Investment Management",
+      "investment management",
+      "investment mgt",
+      "invest management"
+    ]
+  },
+  {
+    "value": "Islamic Studies",
+    "synonyms": [
+      "Islamic Studies",
+      "islamic study",
+      "islamic studies",
+      "islamic",
+      "islam"
+    ]
+  },
+  {
+    "value": "IT Infrastructure Management",
+    "synonyms": [
+      "IT Infrastructure Management",
+      "IT infra",
+      "it infra management"
+    ]
+  },
+  {
+    "value": "Italian",
+    "synonyms": [
+      "Italian",
+      "italian",
+      "italy"
+    ]
+  },
+  {
+    "value": "Japanese",
+    "synonyms": [
+      "Japanese",
+      "japaneese",
+      "japan"
+    ]
+  },
+  {
+    "value": "Jwellery Design",
+    "synonyms": [
+      "Jwellery Design",
+      "jwellery",
+      "jwell",
+      "jwellery design"
+    ]
+  },
+  {
+    "value": "Journalism",
+    "synonyms": [
+      "Journalism",
+      "journalism",
+      "journalist"
+    ]
+  },
+  {
+    "value": "Kannada",
+    "synonyms": [
+      "Kannada",
+      "kannad",
+      "kanad",
+      "kanadd"
+    ]
+  },
+  {
+    "value": "Kashmiri",
+    "synonyms": [
+      "Kashmiri",
+      "kashmir",
+      "kashmiri"
+    ]
+  },
+  {
+    "value": "Knitwear Design",
+    "synonyms": [
+      "Knitwear Design",
+      "knit design",
+      "knitware design"
+    ]
+  },
+  {
+    "value": "Konkani",
+    "synonyms": [
+      "Konkani",
+      "konkan"
+    ]
+  },
+  {
+    "value": "Korean",
+    "synonyms": [
+      "Korean",
+      "korea",
+      "korean"
+    ]
+  },
+  {
+    "value": "Law",
+    "synonyms": [
+      "Law"
+    ]
+  },
+  {
+    "value": "Leather Design",
+    "synonyms": [
+      "Leather Design",
+      "leather",
+      "leather design"
+    ]
+  },
+  {
+    "value": "Liberal Arts",
+    "synonyms": [
+      "Liberal Arts",
+      "liberal",
+      "liberal arts"
+    ]
+  },
+  {
+    "value": "Life Science",
+    "synonyms": [
+      "Life Science",
+      "life sciences",
+      "life",
+      "life science"
+    ]
+  },
+  {
+    "value": "Linguistics",
+    "synonyms": [
+      "Linguistics",
+      "linguistic",
+      "ling",
+      "linguistics"
+    ]
+  },
+  {
+    "value": "Logistics",
+    "synonyms": [
+      "Logistics",
+      "logistic"
+    ]
+  },
+  {
+    "value": "Mainframe Technology",
+    "synonyms": [
+      "Mainframe Technology",
+      "mainframe",
+      "mainframe tech",
+      "mainframe technology"
+    ]
+  },
+  {
+    "value": "Maithili",
+    "synonyms": [
+      "Maithili",
+      "maithli",
+      "mathi"
+    ]
+  },
+  {
+    "value": "Malayalam",
+    "synonyms": [
+      "Malayalam",
+      "malyalam",
+      "malyalum"
+    ]
+  },
+  {
+    "value": "Management",
+    "synonyms": [
+      "Management",
+      "manage",
+      "management",
+      "mgt"
+    ]
+  },
+  {
+    "value": "Manipuri",
+    "synonyms": [
+      "Manipuri",
+      "manipur"
+    ]
+  },
+  {
+    "value": "Manufacturing",
+    "synonyms": [
+      "Manufacturing",
+      "manufacture",
+      "manufacturing"
+    ]
+  },
+  {
+    "value": "Marathi",
+    "synonyms": [
+      "Marathi",
+      "marathi"
+    ]
+  },
+  {
+    "value": "Marine Engineering",
+    "synonyms": [
+      "Marine Engineering",
+      "marine",
+      "marine engg",
+      "marine eng",
+      "maine engineering"
+    ]
+  },
+  {
+    "value": "Marketing Management",
+    "synonyms": [
+      "Marketing Management",
+      "marketing manage",
+      "marketing management",
+      "marketing mgt"
+    ]
+  },
+  {
+    "value": "Mass Communication",
+    "synonyms": [
+      "Mass Communication",
+      "mass comm",
+      "mass communication"
+    ]
+  },
+  {
+    "value": "Materials Science",
+    "synonyms": [
+      "Materials Science",
+      "material science",
+      "material",
+      "material sciences"
+    ]
+  },
+  {
+    "value": "Mathematics",
+    "synonyms": [
+      "Mathematics",
+      "maths",
+      "mathematics"
+    ]
+  },
+  {
+    "value": "Mathematics \u0026 Computing",
+    "synonyms": [
+      "Mathematics \u0026 Computing",
+      "maths and computer",
+      "maths and computing",
+      "maths computing",
+      "maths computer"
+    ]
+  },
+  {
+    "value": "Mechanical Engineering",
+    "synonyms": [
+      "Mechanical Engineering",
+      "mechanics",
+      "mechanical",
+      "mechanical engineering",
+      "mechanical engg",
+      "mechanic engineering"
+    ]
+  },
+  {
+    "value": "Mechatronics",
+    "synonyms": [
+      "Mechatronics",
+      "mechatronic"
+    ]
+  },
+  {
+    "value": "Media Management",
+    "synonyms": [
+      "Media Management",
+      "media manage",
+      "media management"
+    ]
+  },
+  {
+    "value": "Medicine",
+    "synonyms": [
+      "Medicine",
+      "medicine"
+    ]
+  },
+  {
+    "value": "Medical Biotechnology",
+    "synonyms": [
+      "Medical Biotechnology",
+      "medial biotech",
+      "medical biotech",
+      "medical bio"
+    ]
+  },
+  {
+    "value": "Medical Electronics",
+    "synonyms": [
+      "Medical Electronics",
+      "medical electronics",
+      "medical electronic"
+    ]
+  },
+  {
+    "value": "Medical Imaging Technology",
+    "synonyms": [
+      "Medical Imaging Technology",
+      "medical imaging technology",
+      "medical image tech",
+      "medical imaging tech",
+      "medical imaging",
+      "medical image"
+    ]
+  },
+  {
+    "value": "Medical Laboratory Technology",
+    "synonyms": [
+      "Medical Laboratory Technology",
+      "medical laboratory technology",
+      "medical lab",
+      "medical lab technology",
+      "medical lab tech"
+    ]
+  },
+  {
+    "value": "Medical Nanotechnology",
+    "synonyms": [
+      "Medical Nanotechnology",
+      "medical nano",
+      "medical nanotech",
+      "medical nanotechnology"
+    ]
+  },
+  {
+    "value": "Medical Physiology",
+    "synonyms": [
+      "Medical Physiology",
+      "medical physio",
+      "medical physiology"
+    ]
+  },
+  {
+    "value": "Medical Radiologic Technology",
+    "synonyms": [
+      "Medical Radiologic Technology",
+      "medical radiology",
+      "medical radio tech",
+      "medical radio technology"
+    ]
+  },
+  {
+    "value": "Metallurgical Engineering",
+    "synonyms": [
+      "Metallurgical Engineering",
+      "metallurgy",
+      "metalurgy",
+      "metallurgy engineering",
+      "metallurgical engineering"
+    ]
+  },
+  {
+    "value": "Micro Electronics",
+    "synonyms": [
+      "Micro Electronics",
+      "micro",
+      "micro electronic",
+      "micro electronics"
+    ]
+  },
+  {
+    "value": "Microbiology",
+    "synonyms": [
+      "Microbiology",
+      "microbio",
+      "microbiology"
+    ]
+  },
+  {
+    "value": "Mining Engineering",
+    "synonyms": [
+      "Mining Engineering",
+      "mining",
+      "mining engineering",
+      "mining engg"
+    ]
+  },
+  {
+    "value": "Mining Machinery Engineering",
+    "synonyms": [
+      "Mining Machinery Engineering",
+      "mining machinery",
+      "mining machine engineering"
+    ]
+  },
+  {
+    "value": "Mobile Applications",
+    "synonyms": [
+      "Mobile Applications",
+      "mobile apps",
+      "mobile application",
+      "mobile app"
+    ]
+  },
+  {
+    "value": "Mobile Computing",
+    "synonyms": [
+      "Mobile Computing",
+      "mobile computer",
+      "mobile computing",
+      "mob computing"
+    ]
+  },
+  {
+    "value": "Molecular Biology",
+    "synonyms": [
+      "Molecular Biology",
+      "molecular bio",
+      "molecular biology",
+      "mol bio",
+      "bol biology",
+      "mol biology",
+      "molecule"
+    ]
+  },
+  {
+    "value": "Molecular Oncology",
+    "synonyms": [
+      "Molecular Oncology",
+      "molecular oncology",
+      "molecular onco",
+      "mol oncology"
+    ]
+  },
+  {
+    "value": "Multimedia Development",
+    "synonyms": [
+      "Multimedia Development",
+      "multimedia",
+      "multi development",
+      "multi dev",
+      "multimedia dev",
+      "multimedia develop"
+    ]
+  },
+  {
+    "value": "Museology",
+    "synonyms": [
+      "Museology",
+      "museo"
+    ]
+  },
+  {
+    "value": "Nanoscience",
+    "synonyms": [
+      "Nanoscience",
+      "nano",
+      "nanoscience",
+      "nanosci"
+    ]
+  },
+  {
+    "value": "Nanotechnology",
+    "synonyms": [
+      "Nanotechnology",
+      "nanotech",
+      "nanotechnology"
+    ]
+  },
+  {
+    "value": "Nautical Science",
+    "synonyms": [
+      "Nautical Science",
+      "nautical",
+      "nautical sci",
+      "nautical science"
+    ]
+  },
+  {
+    "value": "Naval Architecture",
+    "synonyms": [
+      "Naval Architecture",
+      "naval",
+      "naval archi",
+      "naval architect"
+    ]
+  },
+  {
+    "value": "Nepali",
+    "synonyms": [
+      "Nepali",
+      "nepal"
+    ]
+  },
+  {
+    "value": "Networks and Security",
+    "synonyms": [
+      "Networks and Security",
+      "networking",
+      "network and security",
+      "network security"
+    ]
+  },
+  {
+    "value": "Neuroscience",
+    "synonyms": [
+      "Neuroscience",
+      "neuro",
+      "neurosci"
+    ]
+  },
+  {
+    "value": "Nuclear Medicine Technology",
+    "synonyms": [
+      "Nuclear Medicine Technology",
+      "nuclear medicine",
+      "medicine technology",
+      "nuclear technology"
+    ]
+  },
+  {
+    "value": "Nuclear Science",
+    "synonyms": [
+      "Nuclear Science",
+      "nuclear",
+      "nuclear sci"
+    ]
+  },
+  {
+    "value": "Nuclear Engineering",
+    "synonyms": [
+      "Nuclear Engineering",
+      "nuclear engg",
+      "nuclear engineering",
+      "nuclear eng"
+    ]
+  },
+  {
+    "value": "Nursing",
+    "synonyms": [
+      "Nursing",
+      "nurse"
+    ]
+  },
+  {
+    "value": "Ocean Engineering",
+    "synonyms": [
+      "Ocean Engineering",
+      "ocean",
+      "ocean engg",
+      "ocean eng"
+    ]
+  },
+  {
+    "value": "Odia",
+    "synonyms": [
+      "Odia",
+      "orrisa",
+      "orria",
+      "oria",
+      "oddia"
+    ]
+  },
+  {
+    "value": "Operation Theatre Techniques",
+    "synonyms": [
+      "Operation Theatre Techniques",
+      "OTT",
+      "OT Techniques",
+      "OT technique",
+      "operation technique",
+      "operation techniques",
+      "operation theatre",
+      "opp theatre",
+      "op theatre techniques"
+    ]
+  },
+  {
+    "value": "Operations Management",
+    "synonyms": [
+      "Operations Management",
+      "operations",
+      "operate",
+      "operations management",
+      "operations mgt",
+      "op management",
+      "op mgt",
+      "operations manage"
+    ]
+  },
+  {
+    "value": "Optometry",
+    "synonyms": [
+      "Optometry",
+      "opto",
+      "optometric"
+    ]
+  },
+  {
+    "value": "Pashto",
+    "synonyms": [
+      "Pashto",
+      "pash",
+      "pashto"
+    ]
+  },
+  {
+    "value": "Perfusion Technology",
+    "synonyms": [
+      "Perfusion Technology",
+      "prfuse",
+      "perfuse",
+      "perfusion",
+      "perfusion tech"
+    ]
+  },
+  {
+    "value": "Persian",
+    "synonyms": [
+      "Persian",
+      "persia"
+    ]
+  },
+  {
+    "value": "Petrochemical Engineering",
+    "synonyms": [
+      "Petrochemical Engineering",
+      "petro",
+      "petrochemical",
+      "petrochem",
+      "petrochemical engg",
+      "petrochemical eng"
+    ]
+  },
+  {
+    "value": "Petroleum Engineering",
+    "synonyms": [
+      "Petroleum Engineering",
+      "petrol engineering",
+      "petrol",
+      "petroleum",
+      "petroleum eng",
+      "petroleum engg"
+    ]
+  },
+  {
+    "value": "Pharmaceutical Technology",
+    "synonyms": [
+      "Pharmaceutical Technology",
+      "pharma",
+      "pharmaceutical",
+      "pharmaceutical tech",
+      "pharmaceutical technology"
+    ]
+  },
+  {
+    "value": "Pharmacy",
+    "synonyms": [
+      "Pharmacy",
+      "pharmacy"
+    ]
+  },
+  {
+    "value": "Philosophy",
+    "synonyms": [
+      "Philosophy",
+      "philosopher",
+      "philosophy"
+    ]
+  },
+  {
+    "value": "Photography",
+    "synonyms": [
+      "Photography",
+      "photographer",
+      "photo",
+      "photography",
+      "digital photography"
+    ]
+  },
+  {
+    "value": "Photonics",
+    "synonyms": [
+      "Photonics",
+      "photon",
+      "photons"
+    ]
+  },
+  {
+    "value": "Physical Education",
+    "synonyms": [
+      "Physical Education",
+      "PE",
+      "pe",
+      "physic edu",
+      "physical education"
+    ]
+  },
+  {
+    "value": "Physical Sciences",
+    "synonyms": [
+      "Physical Sciences",
+      "physical science"
+    ]
+  },
+  {
+    "value": "Physics",
+    "synonyms": [
+      "Physics",
+      "physic"
+    ]
+  },
+  {
+    "value": "Physiotherapy",
+    "synonyms": [
+      "Physiotherapy",
+      "physio",
+      "physiotherapy",
+      "fisio",
+      "fisiotherapy"
+    ]
+  },
+  {
+    "value": "Planning",
+    "synonyms": [
+      "Planning",
+      "plan",
+      "planning",
+      "planning and plotting",
+      "plan and plot"
+    ]
+  },
+  {
+    "value": "Plant Biotechnology",
+    "synonyms": [
+      "Plant Biotechnology",
+      "plant bio",
+      "plant biotech",
+      "plant biotechnology"
+    ]
+  },
+  {
+    "value": "Plastic Engineering",
+    "synonyms": [
+      "Plastic Engineering",
+      "plastic",
+      "plastic engg"
+    ]
+  },
+  {
+    "value": "Political Science",
+    "synonyms": [
+      "Political Science",
+      "ploitics",
+      "politics",
+      "politic",
+      "politic science",
+      "political science"
+    ]
+  },
+  {
+    "value": "Polymer Engineering",
+    "synonyms": [
+      "Polymer Engineering",
+      "plymer",
+      "polymer engg",
+      "polymer eng"
+    ]
+  },
+  {
+    "value": "Polymer Science",
+    "synonyms": [
+      "Polymer Science",
+      "poymer science",
+      "polymer science"
+    ]
+  },
+  {
+    "value": "Power Electronics",
+    "synonyms": [
+      "Power Electronics",
+      "power electronic",
+      "power electronics"
+    ]
+  },
+  {
+    "value": "Power Systems",
+    "synonyms": [
+      "Power Systems",
+      "power system"
+    ]
+  },
+  {
+    "value": "Print \u0026 Media Technology",
+    "synonyms": [
+      "Print \u0026 Media Technology",
+      "print and media",
+      "print and media technology",
+      "print and media tech",
+      "print media technology",
+      "print media tech"
+    ]
+  },
+  {
+    "value": "Print Making",
+    "synonyms": [
+      "Print Making",
+      "print make",
+      "print making"
+    ]
+  },
+  {
+    "value": "Process Control and Instrumentation",
+    "synonyms": [
+      "Process Control and Instrumentation",
+      "process control and instrumentation",
+      "process control",
+      "process control instrumentation"
+    ]
+  },
+  {
+    "value": "Product Design",
+    "synonyms": [
+      "Product Design",
+      "product design",
+      "product designing"
+    ]
+  },
+  {
+    "value": "Production Engineering",
+    "synonyms": [
+      "Production Engineering",
+      "production",
+      "produce engineering",
+      "production engg",
+      "production eng"
+    ]
+  },
+  {
+    "value": "Psychology",
+    "synonyms": [
+      "Psychology",
+      "psycho",
+      "psychology"
+    ]
+  },
+  {
+    "value": "Public Administration",
+    "synonyms": [
+      "Public Administration",
+      "public admin",
+      "public administration"
+    ]
+  },
+  {
+    "value": "Punjabi",
+    "synonyms": [
+      "Punjabi",
+      "punjab",
+      "punjabi"
+    ]
+  },
+  {
+    "value": "Quality Management",
+    "synonyms": [
+      "Quality Management",
+      "quality",
+      "quality manage",
+      "quality management"
+    ]
+  },
+  {
+    "value": "Radiography",
+    "synonyms": [
+      "Radiography",
+      "radio",
+      "radiograph"
+    ]
+  },
+  {
+    "value": "Radiotherapy",
+    "synonyms": [
+      "Radiotherapy",
+      "radiotherapy"
+    ]
+  },
+  {
+    "value": "Renal Replacement Therapy",
+    "synonyms": [
+      "Renal Replacement Therapy",
+      "renal replace",
+      "renal replacement",
+      "renal replacement therapy",
+      "renal therapy"
+    ]
+  },
+  {
+    "value": "Respiratory Therapy",
+    "synonyms": [
+      "Respiratory Therapy",
+      "respiratory",
+      "respiratory therapy",
+      "respirator"
+    ]
+  },
+  {
+    "value": "Retail Management",
+    "synonyms": [
+      "Retail Management",
+      "retail",
+      "retail manage",
+      "retail management"
+    ]
+  },
+  {
+    "value": "Risk Management",
+    "synonyms": [
+      "Risk Management",
+      "risk",
+      "risk factor",
+      "risk manahe",
+      "risk manage",
+      "risk mgt"
+    ]
+  },
+  {
+    "value": "Robotics",
+    "synonyms": [
+      "Robotics",
+      "robotic",
+      "robo",
+      "robotics",
+      "ror",
+      "rob"
+    ]
+  },
+  {
+    "value": "Rubber Technology",
+    "synonyms": [
+      "Rubber Technology",
+      "rubber",
+      "rubber tech"
+    ]
+  },
+  {
+    "value": "Russian",
+    "synonyms": [
+      "Russian",
+      "russia",
+      "rus",
+      "russ"
+    ]
+  },
+  {
+    "value": "Safety Engineering",
+    "synonyms": [
+      "Safety Engineering",
+      "safety",
+      "safe",
+      "safe engineering",
+      "safe eng",
+      "safe engg"
+    ]
+  },
+  {
+    "value": "Sales Management",
+    "synonyms": [
+      "Sales Management",
+      "sales",
+      "sae",
+      "sale",
+      "sale manage",
+      "sales manage",
+      "sales managemnt",
+      "sales mgmt",
+      "sale management"
+    ]
+  },
+  {
+    "value": "Sanskrit",
+    "synonyms": [
+      "Sanskrit",
+      "sanskrit",
+      "sanskriti"
+    ]
+  },
+  {
+    "value": "Santali",
+    "synonyms": [
+      "Santali",
+      "santal"
+    ]
+  },
+  {
+    "value": "Screenwriting",
+    "synonyms": [
+      "Screenwriting",
+      "screen",
+      "screenwriting",
+      "screenwritting"
+    ]
+  },
+  {
+    "value": "Sculpture",
+    "synonyms": [
+      "Sculpture",
+      "scultur",
+      "sculture",
+      "sculpture",
+      "sculpt"
+    ]
+  },
+  {
+    "value": "Sindhi",
+    "synonyms": [
+      "Sindhi",
+      "sindh",
+      "sindi"
+    ]
+  },
+  {
+    "value": "Social Sciences",
+    "synonyms": [
+      "Social Sciences",
+      "social science",
+      "social sciences"
+    ]
+  },
+  {
+    "value": "Social Work",
+    "synonyms": [
+      "Social Work",
+      "social work",
+      "social",
+      "social service",
+      "social serv"
+    ]
+  },
+  {
+    "value": "Sociology",
+    "synonyms": [
+      "Sociology",
+      "socio",
+      "sociology"
+    ]
+  },
+  {
+    "value": "Software Engineering",
+    "synonyms": [
+      "Software Engineering",
+      "software",
+      "software engg",
+      "software engineering",
+      "soft engineering"
+    ]
+  },
+  {
+    "value": "Solar \u0026 Alternate Energy",
+    "synonyms": [
+      "Solar \u0026 Alternate Energy",
+      "solar energy",
+      "solar alternate energy",
+      "solar and alternate energy"
+    ]
+  },
+  {
+    "value": "Sound Design",
+    "synonyms": [
+      "Sound Design",
+      "soun",
+      "sound",
+      "sound design"
+    ]
+  },
+  {
+    "value": "Sound Recording",
+    "synonyms": [
+      "Sound Recording",
+      "sound record",
+      "sound recording"
+    ]
+  },
+  {
+    "value": "Spanish",
+    "synonyms": [
+      "Spanish",
+      "spane",
+      "spain"
+    ]
+  },
+  {
+    "value": "Sport Science",
+    "synonyms": [
+      "Sport Science",
+      "sport sciences",
+      "sports science",
+      "sports sciences"
+    ]
+  },
+  {
+    "value": "Sports Management",
+    "synonyms": [
+      "Sports Management",
+      "sport management",
+      "sports manage",
+      "sports management",
+      "sports mgmt"
+    ]
+  },
+  {
+    "value": "Statistics",
+    "synonyms": [
+      "Statistics",
+      "statistic",
+      "stats",
+      "stat"
+    ]
+  },
+  {
+    "value": "Structural Engineering",
+    "synonyms": [
+      "Structural Engineering",
+      "structure",
+      "structural",
+      "structural engineering"
+    ]
+  },
+  {
+    "value": "Supply Chain Management",
+    "synonyms": [
+      "Supply Chain Management",
+      "supply chain",
+      "supply chain management",
+      "supply chain manage"
+    ]
+  },
+  {
+    "value": "Surgery",
+    "synonyms": [
+      "Surgery",
+      "surgery"
+    ]
+  },
+  {
+    "value": "Sustainable Energy",
+    "synonyms": [
+      "Sustainable Energy",
+      "sustainable",
+      "sustainable engineering",
+      "sustain",
+      "sustain engineering"
+    ]
+  },
+  {
+    "value": "Systems Engineering",
+    "synonyms": [
+      "Systems Engineering",
+      "system engineering",
+      "system engg",
+      "system eng",
+      "systems",
+      "systems engg"
+    ]
+  },
+  {
+    "value": "Tamil",
+    "synonyms": [
+      "Tamil"
+    ]
+  },
+  {
+    "value": "Telecommunication",
+    "synonyms": [
+      "Telecommunication",
+      "telecom",
+      "telecomunication",
+      "telecommunication",
+      "tele"
+    ]
+  },
+  {
+    "value": "Telugu",
+    "synonyms": [
+      "Telugu",
+      "telugu"
+    ]
+  },
+  {
+    "value": "Textile Engineering",
+    "synonyms": [
+      "Textile Engineering",
+      "textile",
+      "textile engg"
+    ]
+  },
+  {
+    "value": "Textile Chemistry",
+    "synonyms": [
+      "Textile Chemistry",
+      "textile chem",
+      "textline",
+      "textile",
+      "tekstile",
+      "textile chemistry"
+    ]
+  },
+  {
+    "value": "Textile Design",
+    "synonyms": [
+      "Textile Design",
+      "textile design"
+    ]
+  },
+  {
+    "value": "Theatre",
+    "synonyms": [
+      "Theatre",
+      "theatr",
+      "theatre",
+      "drama",
+      "nukkad",
+      "nukadd",
+      "natak"
+    ]
+  },
+  {
+    "value": "Tourism",
+    "synonyms": [
+      "Tourism",
+      "tour",
+      "travel",
+      "tours and travel",
+      "tour and travel",
+      "tourism"
+    ]
+  },
+  {
+    "value": "Transportation Engineering",
+    "synonyms": [
+      "Transportation Engineering",
+      "transport",
+      "transportation engineering",
+      "transportation engg",
+      "transportation"
+    ]
+  },
+  {
+    "value": "Trauma Care Techniques",
+    "synonyms": [
+      "Trauma Care Techniques",
+      "trauma",
+      "trauma care",
+      "trauma care technique",
+      "trauma technique",
+      "trauma techniques",
+      "trauma care techniques"
+    ]
+  },
+  {
+    "value": "Turkish",
+    "synonyms": [
+      "Turkish",
+      "turkey"
+    ]
+  },
+  {
+    "value": "Urban and Regional Planning",
+    "synonyms": [
+      "Urban and Regional Planning",
+      "urban and regional",
+      "urban and regional planning",
+      "urban and regional plan",
+      "urban planning"
+    ]
+  },
+  {
+    "value": "Urdu",
+    "synonyms": [
+      "Urdu"
+    ]
+  },
+  {
+    "value": "User Experience Design",
+    "synonyms": [
+      "User Experience Design",
+      "user experience",
+      "user",
+      "user exp",
+      "user exp design",
+      "user experience design"
+    ]
+  },
+  {
+    "value": "Veterinary Science",
+    "synonyms": [
+      "Veterinary Science",
+      "veteran",
+      "veterinary",
+      "veterin",
+      "veterinary sciences"
+    ]
+  },
+  {
+    "value": "Visual Arts",
+    "synonyms": [
+      "Visual Arts",
+      "visual art",
+      "visual",
+      "visuals"
+    ]
+  },
+  {
+    "value": "Visual Communication",
+    "synonyms": [
+      "Visual Communication",
+      "visual comm",
+      "visual communication",
+      "visual com",
+      "visual comunication"
+    ]
+  },
+  {
+    "value": "VLSI and Embedded Systems",
+    "synonyms": [
+      "VLSI and Embedded Systems",
+      "VLSI",
+      "VLSI Embedded",
+      "VLSI systems",
+      "VLSi and Embedded Systems"
+    ]
+  },
+  {
+    "value": "Water Resources Management",
+    "synonyms": [
+      "Water Resources Management",
+      "water resource",
+      "water management",
+      "water resources"
+    ]
+  },
+  {
+    "value": "Web Design",
+    "synonyms": [
+      "Web Design",
+      "web dev",
+      "web developer",
+      "website developer",
+      "website design"
+    ]
+  },
+  {
+    "value": "Web Technology",
+    "synonyms": [
+      "Web Technology",
+      "web",
+      "web tech",
+      "website technology"
+    ]
+  },
+  {
+    "value": "Western Music - Vocal",
+    "synonyms": [
+      "Western Music - Vocal",
+      "vocal western music",
+      "vocal music",
+      "vocal western",
+      "western vocal music"
+    ]
+  },
+  {
+    "value": "Western Music - Instrumental",
+    "synonyms": [
+      "Western Music - Instrumental",
+      "instrumental music",
+      "instrumental",
+      "western instrumental music",
+      "Western Music-Instrumental"
+    ]
+  },
+  {
+    "value": "Western Dance",
+    "synonyms": [
+      "Western Dance",
+      "dance",
+      "western",
+      "dancing",
+      "western dancing"
+    ]
+  },
+  {
+    "value": "Yoga",
+    "synonyms": [
+      "Yoga",
+      "yogya",
+      "yog"
+    ]
+  },
+  {
+    "value": "Zoology",
+    "synonyms": [
+      "Zoology",
+      "zoo",
+      "zoology"
+    ]
+  }
+]

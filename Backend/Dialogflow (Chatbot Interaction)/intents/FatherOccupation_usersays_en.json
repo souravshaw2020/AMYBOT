@@ -1,0 +1,286 @@
+[
+  {
+    "id": "841733eb-00ea-413e-a924-49d2e3ba9ada",
+    "data": [
+      {
+        "text": "he is a ",
+        "userDefined": false
+      },
+      {
+        "text": "Civil Engineer",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " and a ",
+        "userDefined": false
+      },
+      {
+        "text": "Businessman",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "002580ff-4b2d-4605-a580-851610218d47",
+    "data": [
+      {
+        "text": "He ",
+        "userDefined": false
+      },
+      {
+        "text": "does many things",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d8967e7-31e2-4bed-95c3-98c2a2f2194f",
+    "data": [
+      {
+        "text": "He is ",
+        "userDefined": false
+      },
+      {
+        "text": "not working",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "right now",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74de60fa-cded-4f4c-b7e1-ddbc52a483c0",
+    "data": [
+      {
+        "text": "he is into ",
+        "userDefined": false
+      },
+      {
+        "text": "service sector",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "494ba49d-ba24-4167-a8f9-ff8f2ff3bc93",
+    "data": [
+      {
+        "text": "he is an ",
+        "userDefined": false
+      },
+      {
+        "text": "Engineer",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9bb7f8c-011c-4739-b7b2-639a8d8645dc",
+    "data": [
+      {
+        "text": "my father is a ",
+        "userDefined": false
+      },
+      {
+        "text": "businessman",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e1c7b64-76c1-4a15-b6dc-02b1c925e57e",
+    "data": [
+      {
+        "text": "my father occupation is ",
+        "userDefined": false
+      },
+      {
+        "text": "service",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af936bca-5fd9-40c6-b0cf-15693dd0c59d",
+    "data": [
+      {
+        "text": "My father is a ",
+        "userDefined": false
+      },
+      {
+        "text": "doctor",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be8fbb90-b5dc-47eb-a8fe-76c8eef72a96",
+    "data": [
+      {
+        "text": "my father is an ",
+        "userDefined": false
+      },
+      {
+        "text": "engineer",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02425781-1078-4e6e-a507-fdc80b65099d",
+    "data": [
+      {
+        "text": "My father is a ",
+        "userDefined": false
+      },
+      {
+        "text": "engineer",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47984189-9ed2-49bf-8c77-bfd9119d573f",
+    "data": [
+      {
+        "text": "doctor",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82257e21-4dfc-4df3-aa1a-50132de52340",
+    "data": [
+      {
+        "text": "consultant",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33202691-6ccc-4141-a0ec-3289941e3ec6",
+    "data": [
+      {
+        "text": "entrepreneur",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35beba3b-805a-4de8-b9cc-0203ede6136f",
+    "data": [
+      {
+        "text": "business",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca358dec-927e-4d51-b786-743fda5bc697",
+    "data": [
+      {
+        "text": "service",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

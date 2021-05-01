@@ -1,0 +1,41 @@
+{
+  "id": "1767ad04-c5e6-46f0-a04f-2c61c89517a2",
+  "parentId": "bc8aa880-b137-4be4-8235-c22160f6c17a",
+  "rootParentId": "bc8aa880-b137-4be4-8235-c22160f6c17a",
+  "name": "ReportPersonality-CI - yes",
+  "auto": true,
+  "contexts": [
+    "PersonalityDescription-CI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PersonalityDescription-CI.PersonalityDescription-CI-yes",
+      "affectedContexts": [
+        {
+          "name": "ReportPersonality-CI-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

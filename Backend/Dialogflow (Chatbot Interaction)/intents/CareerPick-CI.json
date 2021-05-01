@@ -1,0 +1,56 @@
+{
+  "id": "59c0d7ff-4b09-420b-9065-b4494485de05",
+  "parentId": "1c415963-cd59-4286-8fca-6ec4340072ec",
+  "rootParentId": "bc8aa880-b137-4be4-8235-c22160f6c17a",
+  "name": "CareerPick-CI",
+  "auto": true,
+  "contexts": [
+    "CII-Category-CI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PersonalityDescription-CI.PersonalityDescription-CI-yes.ReportPersonality-CI-yes.CII-Description-CI-yes.CII-Match-CI-yes.CII-Category-CI-custom",
+      "affectedContexts": [
+        {
+          "name": "CareerPick-CI-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "fb84d276-0f55-4c56-b408-ec915f0c7515",
+          "name": "categories",
+          "required": false,
+          "dataType": "@categories",
+          "value": "$categories",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

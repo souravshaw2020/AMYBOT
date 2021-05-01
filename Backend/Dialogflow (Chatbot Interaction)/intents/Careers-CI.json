@@ -1,0 +1,59 @@
+{
+  "id": "28c7683a-8c9c-4821-b921-66c51d4b55c3",
+  "parentId": "f6182b5e-9c42-4fe4-b6a6-706a6f6cf07a",
+  "rootParentId": "71df94ff-f0a7-4e16-be10-ac455bfb6ae6",
+  "name": "Careers-CI",
+  "auto": true,
+  "contexts": [
+    "Subjects-NonFav-Why-CI-followup-2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SubjectsFav-CI.SubjectsFav-CI-fallback.SubjectsFav-Why-CI-custom.Subjects-NonFav-CI-fallback.Subjects-NonFav-Why-CI-custom",
+      "affectedContexts": [
+        {
+          "name": "Careers-CI-followup",
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3745b3c3-0d9f-462e-856b-1561ee28f4be",
+          "name": "future_careers",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$future_careers",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Why would you like to take up this career?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

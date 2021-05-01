@@ -1,0 +1,47 @@
+{
+  "id": "0dacee3a-ebe9-4cff-949f-a1663e96b5bc",
+  "name": "Default Welcome Intent - yes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi! Shall we begin with the counselling?",
+            "Hello! I can help you with some career choices that suits you best. Shall we start?",
+            "Good day! Would you like Career Counselling?",
+            "Greetings! I will be glad to take you through some career options best suited for you. Shall we start?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

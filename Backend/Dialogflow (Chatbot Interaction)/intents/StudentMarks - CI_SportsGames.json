@@ -1,0 +1,44 @@
+{
+  "id": "b5d2fb77-3835-43bf-9d68-4b6c4f556324",
+  "parentId": "d8dd606c-8dbf-4210-aff6-21f71d05588a",
+  "rootParentId": "11ee83d4-c0d5-4900-abc8-a85f1bc3e651",
+  "name": "StudentMarks - CI|SportsGames",
+  "auto": true,
+  "contexts": [
+    "StudentMarks-CI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "TestExperience-CI.TestExperience-CI-yes.TestExperience-CI-yes-custom.StudentClass-CI-custom.StudentMarks-CI-yes",
+      "affectedContexts": [
+        {
+          "name": "SportsGames-CI",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "That\u0027s nice. So which games or sports do you play?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

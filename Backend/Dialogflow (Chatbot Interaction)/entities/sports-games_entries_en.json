@@ -1,0 +1,348 @@
+[
+  {
+    "value": "Boggle",
+    "synonyms": [
+      "Boggle",
+      "boggl",
+      "boggle"
+    ]
+  },
+  {
+    "value": "Sky Diving",
+    "synonyms": [
+      "Sky Diving",
+      "sky diving",
+      "skydiving",
+      "Skydiving"
+    ]
+  },
+  {
+    "value": "Tennis",
+    "synonyms": [
+      "Tennis",
+      "tennis",
+      "racket"
+    ]
+  },
+  {
+    "value": "Badminton",
+    "synonyms": [
+      "Badminton",
+      "badminton",
+      "bad minton",
+      "Shuttle",
+      "shuttle cock"
+    ]
+  },
+  {
+    "value": "Table Tennis",
+    "synonyms": [
+      "TableTennis",
+      "table tennis",
+      "Table tennis",
+      "tt",
+      "TT",
+      "T.T."
+    ]
+  },
+  {
+    "value": "Squash",
+    "synonyms": [
+      "Squash",
+      "squash"
+    ]
+  },
+  {
+    "value": "Golf",
+    "synonyms": [
+      "Golf",
+      "golf"
+    ]
+  },
+  {
+    "value": "Yoga",
+    "synonyms": [
+      "Yoga",
+      "yoga",
+      "meditation",
+      "Meditation",
+      "Meditate"
+    ]
+  },
+  {
+    "value": "Gym",
+    "synonyms": [
+      "Gym",
+      "Body building",
+      "gymming",
+      "exercise",
+      "exercising",
+      "body builder",
+      "body build",
+      "Body build"
+    ]
+  },
+  {
+    "value": "Wrestling",
+    "synonyms": [
+      "Wrestling",
+      "wrestle",
+      "Wrestle",
+      "Kushti"
+    ]
+  },
+  {
+    "value": "Karate",
+    "synonyms": [
+      "Karate",
+      "karate",
+      "fight",
+      "fighting",
+      "Shotokan karate",
+      "martial arts",
+      "Martial Arts"
+    ]
+  },
+  {
+    "value": "Judo",
+    "synonyms": [
+      "Judo",
+      "judo",
+      "martialarts"
+    ]
+  },
+  {
+    "value": "Taekwondo",
+    "synonyms": [
+      "Taekwondo",
+      "taekwondo",
+      "taikwondo"
+    ]
+  },
+  {
+    "value": "Swimming",
+    "synonyms": [
+      "Swimming",
+      "swim",
+      "swimmer",
+      "swimming",
+      "Swim"
+    ]
+  },
+  {
+    "value": "Diving",
+    "synonyms": [
+      "Diving",
+      "Dive",
+      "Diver",
+      "diving",
+      "dive"
+    ]
+  },
+  {
+    "value": "Cricket",
+    "synonyms": [
+      "Cricket",
+      "cricket",
+      "bat ball",
+      "bat",
+      "ball"
+    ]
+  },
+  {
+    "value": "Hockey",
+    "synonyms": [
+      "Hockey",
+      "hockey",
+      "national sport"
+    ]
+  },
+  {
+    "value": "Soccer",
+    "synonyms": [
+      "Soccer",
+      "soccer"
+    ]
+  },
+  {
+    "value": "Football",
+    "synonyms": [
+      "Football",
+      "football",
+      "foot ball",
+      "rugby",
+      "Rugby",
+      "american football"
+    ]
+  },
+  {
+    "value": "Basketball",
+    "synonyms": [
+      "Basketball",
+      "Basket ball"
+    ]
+  },
+  {
+    "value": "Volleyball",
+    "synonyms": [
+      "Volleyball",
+      "volleyball",
+      "volley ball",
+      "handball",
+      "hand ball"
+    ]
+  },
+  {
+    "value": "Throwball",
+    "synonyms": [
+      "Throwball",
+      "throw ball",
+      "throwball"
+    ]
+  },
+  {
+    "value": "Horse Riding",
+    "synonyms": [
+      "HorseRiding",
+      "horse riding",
+      "horse",
+      "riding"
+    ]
+  },
+  {
+    "value": "Canoeing",
+    "synonyms": [
+      "Canoeing",
+      "canoe",
+      "boating",
+      "boat"
+    ]
+  },
+  {
+    "value": "Trekking",
+    "synonyms": [
+      "Trekking",
+      "trek",
+      "trekking",
+      "moutain climbing"
+    ]
+  },
+  {
+    "value": "Yachting",
+    "synonyms": [
+      "Yachting",
+      "yacht",
+      "yachting"
+    ]
+  },
+  {
+    "value": "Skiing",
+    "synonyms": [
+      "Skiing",
+      "Ski",
+      "skiing"
+    ]
+  },
+  {
+    "value": "Chess",
+    "synonyms": [
+      "Chess",
+      "chess",
+      "ches"
+    ]
+  },
+  {
+    "value": "Sudoku",
+    "synonyms": [
+      "Sudoku",
+      "sudoku"
+    ]
+  },
+  {
+    "value": "Checkers",
+    "synonyms": [
+      "Checkers",
+      "checkers",
+      "checker"
+    ]
+  },
+  {
+    "value": "Cards",
+    "synonyms": [
+      "Cards",
+      "card",
+      "cards",
+      "Bluff",
+      "Poker"
+    ]
+  },
+  {
+    "value": "Scrabble",
+    "synonyms": [
+      "Scrabble",
+      "scrabble",
+      "scable"
+    ]
+  },
+  {
+    "value": "Bungee Jumping",
+    "synonyms": [
+      "Bungee Jumping",
+      "jumping",
+      "bungee jumping",
+      "bungee"
+    ]
+  },
+  {
+    "value": "Rock Climbing",
+    "synonyms": [
+      "RockClimbing",
+      "rock",
+      "climb",
+      "climbing",
+      "rock climbing",
+      "Rock climb"
+    ]
+  },
+  {
+    "value": "Rappelling",
+    "synonyms": [
+      "Rappelling",
+      "rappel",
+      "rapel",
+      "rappelling"
+    ]
+  },
+  {
+    "value": "River Rafting",
+    "synonyms": [
+      "RiverRafting",
+      "river rafting",
+      "rafting",
+      "raft",
+      "River rafting"
+    ]
+  },
+  {
+    "value": "Snorkeling",
+    "synonyms": [
+      "Snorkelling",
+      "Snorkeling",
+      "snorkel",
+      "snorkeling"
+    ]
+  },
+  {
+    "value": "Scuba Diving",
+    "synonyms": [
+      "ScubaDiving",
+      "scuba dive",
+      "scuba diving",
+      "scuba diver",
+      "scubadiver",
+      "underwater diving",
+      "underwater swimming",
+      "underwater"
+    ]
+  }
+]

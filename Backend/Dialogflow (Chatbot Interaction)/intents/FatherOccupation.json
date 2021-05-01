@@ -1,0 +1,60 @@
+{
+  "id": "474f27bf-fd24-4708-bd62-1b2cd998ad5d",
+  "parentId": "6a771fb6-71fd-4079-9fbc-5b48d6e36120",
+  "rootParentId": "577c7160-3318-4a5c-9c5f-0d5d1f1a2b24",
+  "name": "FatherOccupation",
+  "auto": true,
+  "contexts": [
+    "Family-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "StudentMarks-MI.StudentMarks-MI-custom.Family-custom",
+      "affectedContexts": [
+        {
+          "name": "FatherOccupation-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ad2ba94d-7e34-4ec9-af9d-d53f044b98cd",
+          "name": "any",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$any",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What does your mother do?",
+            "What is your mother\u0027s occupation?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
